@@ -68,6 +68,9 @@ TableName=Circuit Protection \ TVS
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=109|Library Ref0=126|Description0=417|Footprint Ref0=144|Capacitance0=85|Case/Package0=93|Revision ID0=97|Voltage Rating (DC)0=124|Max Power Dissipation0=140|Revision State0=95|Polarity0=149|Reverse Breakdown Voltage0=167|Reverse Standoff Voltage0=153|Power0=55|Clamping Voltage0=115|Manufacturer0=105|AccessRights0=89|Breakdown Voltage0=125|ComponentLink1Description0=170|ComponentLink1URL0=436|ComponentType0=107|Composition0=89|Contact Plating0=102|Current0=62|Depth0=55|Direction0=149|Element Configuration0=140|ESD Protection0=99|Folder0=189|FootprintDescription10=449|FootprintRevisionID10=132|Forward Current0=108|Halogen Free0=92|Height0=58|HelpURL0=940|Interface0=68|Item ID0=59|ItemDescription0=104|Lead Free0=72|Leakage Current0=107|Length0=59|Manufacturer Part Number0=179|Max Breakdown Voltage0=149|Max Forward Surge Current (Ifsm)0=195|Max Operating Temperature0=167|Max Repetitive Reverse Voltage (Vrrm)0=216|Max Reverse Leakage Current0=173|Max Reverse Voltage (DC)0=153|Max Surge Current0=119|Min Breakdown Voltage0=148|Min Operating Temperature0=166|Mount0=84|Note0=198|Number of Bidirectional Channels0=197|Number of Channels0=129|Number of Elements0=127|Number of Lines0=107|Number of Pins0=102|Number of Unidirectional Channels0=205|Operating Supply Voltage0=157|Package Quantity0=112|Packaging0=80|Part Number10=93|Peak Non-Repetitive Surge Current0=202|Peak Pulse Current0=119|Peak Pulse Power0=112|Peak Reverse Current0=131|Power Dissipation0=116|Power Line Protection0=135|Radiation Hardening0=131|REACH SVHC0=89|Recovery Time0=94|Release Date0=129|Reverse Recovery Time0=136|Revision0=66|RoHS0=61|SCH_Footprint0=98|Symbol Name0=132|Termination0=84|Test Current0=85|Value0=52|Voltage0=63|Width0=55|Working Voltage0=111
 [Table9]
 SchemaName=
 TableName=Connectors \ Audio
