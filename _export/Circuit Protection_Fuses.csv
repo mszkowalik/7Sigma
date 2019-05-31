@@ -1,0 +1,17 @@
+"Part Number","Library Ref","Description","Case Code (Imperial)","Max Current Rating","Case/Package","Footprint Ref","Height","HelpURL","Hold Current","Lead Free","Length","Manufacturer","Manufacturer Part Number","Max Operating Temperature","Max Power Dissipation","Max Voltage Rating (DC)","Min Operating Temperature","Mount","Number of Pins","REACH SVHC","Resistance","RoHS","Time to Trip","Trip Current","Width","Status"
+"0ZCK0050FF2E","F","Fuse","0805","100A","0805","F_0805_2012","0mm","http://datasheet.octopart.com/0ZCK0050FF2E-Bel-Fuse-datasheet-102585932.pdf","500mA","Lead Free","0mm","Bel Fuse","0ZCK0050FF2E","0°C","0W","0V","0°C","Surface Mount","2",,,,"100ms","1A","0mm",
+"16R700GMR","F","16R Series 16 V 7 A Radial Lead POLY-FUSE PTC Resettable Fuse",,"100A","Radial","F_THT_5.1MM_10X3X140","0mm","http://datasheet.octopart.com/16R700GMR-Littelfuse-datasheet-95953546.pdf","7A",,"19.7mm","Littelfuse","16R700GMR","85°C","3W","16V","-40°C","Through Hole","2",,"20mR",,"3.5s","11.9A","0mm","MK"
+"2920L200/24DR","F","PTC Resettable Fuse 2A(hold) 4A(trip) 24VDC 40A 1.5W 5s 0.05Ohm SMD Solder Pad 2920 T/R","2920","40A","2920","F_2920_7351","0mm",,"2A","Lead Free","0mm",,,"85°C","1.5W","24V","-40°C","Surface Mount","2","No SVHC","125mR",,"5s","4A","0mm",
+"2920L500/16MR","F","PTC Resettable Fuse 5A(hold) 10A(trip) 16VDC 40A 2W 5s 0.005Ohm SMD Solder Pad 7.98 X 5.44 X 1.6mm T/R","2920","40A","2920","F_2920_7351","1.6mm",,"5A","Lead Free","7.98mm",,,"85°C","2W","16V","-40°C","Surface Mount","2","No SVHC",,,"5s","10A","5.44mm",
+"30R800UH","F","PTC 8.00A 30V RESETTABLE KINK",,"40A","Radial","F_THT_5.1MM_10X3X140","29.2mm","https://datasheet.octopart.com/30R800UH-Littelfuse-datasheet-8746242.pdf","8A","Lead Free","0mm",,,"85°C","4W","30V","-40°C","Through Hole","2","No SVHC","20mR",,"18.8s","16A","21.6mm",
+"F_0A11_20V_0603","F","Fuse",,"0A",,"F_0603_1608","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_0A11_20V_0805","F","Fuse",,"0A",,"F_0805_2012","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_0A8_250V_80x44x44","F","Fuse",,"0A",,"F_SIBA_80x44x44_M","0mm","http://www.siba.de/pdfdokumente/datasheets/SIBA-GSS-160000.pdf","0A",,"0mm","Siba","160000.1","0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_1A5_20V_0805","F","Fuse",,"0A",,"F_0805_2012","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_1A5_20V_1206","F","Fuse",,"0A",,"F_1206_3216","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_1A5_20V_1210","F","Fuse",,"0A",,"F_1210_3225","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_1A5_24V_1210","F","Fuse",,"0A",,"F_1210_3225","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_1A5_24V_2920","F","Fuse",,"0A",,"F_2920_7351","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_2A_20V_1812","F","Fuse",,"0A",,"F_1812_4532","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_4A_24V_2920","F","Fuse",,"0A",,"F_2920_7351","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Surface Mount","2",,,,"0s","0A","0mm",
+"F_THT_10X3X140","F","Fuse",,"0A",,"F_THT_5.1MM_10X3X140","0mm",,"0A",,"0mm",,,"0°C","0W","0V","0°C","Through Hole","2",,,,"0s","0A","0mm",

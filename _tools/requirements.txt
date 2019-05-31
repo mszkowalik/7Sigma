@@ -1,0 +1,7 @@
+olefile
+validators
+deepdiff
+svn
+pyperclip
+pyodbc
+octopart
