@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\The_One\OneDrive\Projects\Libraries\7Sigma\7Sigma.mdb;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\InMotion\Documents\7Sigma\7Sigma.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=2
 UpdateMode=2
