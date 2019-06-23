@@ -55,12 +55,12 @@ SJ-2523-SMT-TR
 C_1N8F_100V_X7R_0402_10 - Zmienić na coś nowego (NRND-NIE NIEMIECKIE)
 C_10PF_50V_C0G_0402_5 - Nie istnieje o takich parametrach
 C_47NF_50V_X7R_0603_20 - Są tylko 10% tolerancji pojemnościowej
+DRV8412DDW - używamy tej droższej wersji która różni sie tylko ilością scalaków w pudełku.
+INA181A1IDBVT - używamy tej droższej wersji która różni sie tylko ilością scalaków w pudełku.
+Power Rating - w rezystorach zazwyczaj są "lekko" inne wartosci
 
 
-
-
-
-
+690368192072 - nie mają tego
 
 
 
