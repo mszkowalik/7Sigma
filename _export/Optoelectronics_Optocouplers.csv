@@ -1,4 +1,5 @@
-"Part Number","Library Ref","Revision ID","Revision State","Manufacturer Part Number","Description","Manufacturer","ComponentType","Footprint Ref","HelpURL","Note","Release Date","Revision","Symbol Name"
-"OC_ACPL-071L","OC_ACPL-071L","CMP-011-0000-3",,"ACPL-071L-000E","Optocoupler","Broadcom","Optoelectronics","SOIC127P600X170-8N","http://datasheet.octopart.com/ACPL-071L-000E-Avago-datasheet-10314304.pdf","Footprint Update","27/01/2019 03:08:42 PM",,"ACPL-071L-000E"
-"OC_ACPL-W70L","OC_ACPL-W70L","CMP-011-0001-1",,"ACPL-W70L-000E",,"Broadcom","Optoelectronics","SSO6","https://docs.broadcom.com/docs/AV02-1267EN",,"19/09/2018 01:58:08 PM",,"ACPL-W70L-000E"
-"OC_TCLT1006","OC_TCLT1006","CMP-011-0002-1",,"TCLT1006","Optoisolator","Vishay","Optoelectronics","SOP4L","http://www.mouser.com/ds/2/427/tclt1000-57846.pdf",,"19/09/2018 01:58:08 PM",,"TCLT1006"
+"Part Number","Library Ref","Manufacturer Part Number","Description","Manufacturer","Footprint Ref","HelpURL","Status","Current Transfer Ratio","Forward Current","Collector-Emiter Voltage"
+"LTV-846S","LTV-846S","LTV-846S","Optocoupler","Lite-On","PDIP16_Gull_Wing","http://datasheet.octopart.com/LTV-846S-Lite-On-datasheet-125263.pdf","MK",,,
+"OC_ACPL-071L","OC_ACPL-071L","ACPL-071L-000E","Optocoupler","Broadcom","SOIC127P600X170-8N","http://datasheet.octopart.com/ACPL-071L-000E-Avago-datasheet-10314304.pdf",,,,
+"OC_ACPL-W70L","OC_ACPL-W70L","ACPL-W70L-000E",,"Broadcom","SSO6","https://docs.broadcom.com/docs/AV02-1267EN",,,,
+"OC_TCLT1006","OC_TCLT1006","TCLT1006","Optoisolator","Vishay","SOP4L","http://www.mouser.com/ds/2/427/tclt1000-57846.pdf",,,,

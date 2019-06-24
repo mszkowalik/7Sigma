@@ -4,6 +4,7 @@
 "BAT54XV2","D","SOD523_SC79_EMD2","Schottky Barrier Diode","30V",,"200mW","Surface Mount","200mA","ON Semiconductor","BAT54XV2","700µm","https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF","Lead Free","1.3mm","125°C","-65°C","2","No SVHC","Compliant","900µm"
 "BYG20J-E3/TR3","D","DO-214AC",,"0V","DO-214AC",,"Surface Mount","1.5A","Vishay","BYG20J-E3/TR3","0mm","http://www.mouser.com/ds/2/427/byg20d-240460.pdf",,"0mm","0°C","0°C","2",,,"0mm"
 "D_SOD123_GENERAL","D","SOD123",,"0V","SOD123",,"Surface Mount","0A",,,"0mm",,,"0mm","0°C","0°C","2",,,"0mm"
+"MB1S","MB1S","SOP254P700X300-4N"," Bridge Rectifier","70V","SOIC4","1.4","Surface Mount","0.5A","ON Semiconductor","MB1S","3mm","https://datasheet.octopart.com/MB1S-ON-Semiconductor-datasheet-98150802.pdf",,"4.5mm","150","-55","4",,"Compliant","4.5mm"
 "RS1BL","D","SUB-SMA",,"0V","SUB-SMA",,"Surface Mount","1A","Taiwan Semiconductor","RS1BL","0mm","http://www.mouser.com/ds/2/395/RS1AL%20SERIES_K14-523620.pdf",,"0mm","0°C","0°C","2",,,"0mm"
 "S1A-13-F","D","DO-214AC",,"0V","DO-214AC",,"Surface Mount","1A","Diodes Inc.","S1A-13-F","0mm","http://datasheet.octopart.com/S1A-13-F-Diodes-Inc.-datasheet-551856.pdf",,"0mm","0°C","0°C","2",,,"0mm"
 "S1AB-13-F","D","DO-214AA",,"0V","SMB",,"Surface Mount","1A","Diodes Inc.","S1AB-13-F","0mm","http://datasheet.octopart.com/S1AB-13-F-Diodes-Inc.-datasheet-41192564.pdf",,"0mm","0°C","0°C","2",,,"0mm"
