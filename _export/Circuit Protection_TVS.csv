@@ -3,7 +3,7 @@
 "0603ESDA-MLP7","TVS_BI","0uF",,,"Bussmann","0603ESDA-MLP7
 0603ESDA-MLP7","Surface Mount","0W",,,"https://datasheet.octopart.com/0603ESDA-MLP7-Eaton-datasheet-12528739.pdf",,"0V",,"0V",,"2",,,,,,
 "5.0SMDJ45A","TVS_DOUBLE_SOT23-3","0uF",,"Surface Mount Uni-Directional TVS Diode","Littelfuse","5.0SMDJ45A","Surface Mount","5kW","50V","Unidirectional",,"55.3V","0V","150°C","50V","-55°C","2","Unknown",,"Lead Free",,,
-"D5V0P1B2LP-7B","TVS_BI","10pF","DFN","TVS Diodes - Transient Voltage Suppressors Low Cap Bi TVS 6.0Vbr 4A 8pF","Diodes Inc.","D5V0P1B2LP-7B","Surface Mount","250mW","7V","Bidirectional",,,"5.5V","150°C","6V","-65°C","2",,,,,,
+"D5V0P1B2LP-7B","TVS_BI","10pF","DFN","TVS Diodes - Transient Voltage Suppressors Low Cap Bi TVS 6.0Vbr 4A 8pF","Diodes","D5V0P1B2LP-7B","Surface Mount","250mW","7V","Bidirectional",,,"5.5V","150°C","6V","-65°C","2",,,,,,
 "ESD5384NCTBG","ESD5384NCTBG","12pF",,"5-Line HDMI Control Line",,,"Surface Mount","0W",,,,,"0V","85°C","0V","-30","9",,"Compliant","Lead Free","0.63mm","1.14mm","1.14mm"
 "ESD7484NCTAG","ESD7484NCTAG","1.75pF",,"4-Line Ultra-Large Bandwidth ESD Protection",,,"Surface Mount","70W",,"Bidirectional",,,"0V","125°C","6V","-55°C","10",,,"Lead Free","0.63mm","1.6mm","1.1mm"
 "ESD9B3.3ST5G","TVS_BI","15pF","SOD-923-2","TVS DIODE 3.3VWM SOD923","ON Semiconductor","ESD9B3.3ST5G","Surface Mount","300mW","5V","Bidirectional","https://datasheet.octopart.com/ESD9B3.3ST5G-ON-Semiconductor-datasheet-10979971.pdf",,"3.3V","150°C","5V","-55°C","2","No SVHC",,"Lead Free","0.4mm","0.8mm","0.65mm"
@@ -13,8 +13,8 @@
 "P40-G240-WH","P40-G240-WH","0uF",,"Bidirectional High-Speed Overcurrent Protector.","Bourns","P40-G240-WH","Surface Mount","0W",,,"http://www.bourns.com/docs/Product-Datasheets/P40-G.pdf",,"0V",,"0V",,"6",,,,,,
 "P6SMB15A","TVS_BI","0uF",,,"Littelfuse","P6SMB15A","Surface Mount","0W",,,"http://datasheet.octopart.com/P6SMB15A-Littelfuse-datasheet-68508758.pdf",,"0V",,"0V",,"2",,,,,,
 "PESD5V2S2UT.215","TVS_DOUBLE_SOT23-3","0uF",,"Double ESD protection diodes","Nexperia","PESD5V2S2UT.215","Surface Mount","0W",,,"http://www.tme.eu/en/Document/261ec6993ac66148c5792dbb8ac50fb2/PESD5V2S2UT.pdf",,"0V",,"0V",,"3",,,,,,
-"PS04LTVA1","TVS_BI","0uF",,,"Bussmann","PS04LTVA1","Surface Mount","0W",,,"https://pl.mouser.com/datasheet/2/87/31fc02c3-c2a7-4757-9ba5-5a4597d899a4-33212.pdf",,"0V",,"0V",,"2",,,,,,
 "PS04LTVA1","TVS_BI","0uF",,,"Bussmann","PS04LTVA1","Surface Mount","0W",,,"http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4083_PSO4LTVA1.pdf",,"0V",,"0V",,"2",,,,,,
+"PS04LTVA1","TVS_BI","0uF",,,"Bussmann","PS04LTVA1","Surface Mount","0W",,,"https://pl.mouser.com/datasheet/2/87/31fc02c3-c2a7-4757-9ba5-5a4597d899a4-33212.pdf",,"0V",,"0V",,"2",,,,,,
 "SMAJ20CA-E3/5A","TVS_BI","0uF","SMA","Diode TVS Single Bi-Dir 20V 400W 2-Pin SMA T/R","Vishay","SMAJ20CA-E3/5A","Surface Mount","400W","22.2V","Bidirectional","http://datasheet.octopart.com/P6SMB15A-Littelfuse-datasheet-68508758.pdf",,"0V","150°C","22.2V","-55°C","2",,,,,,
 "SMAJ28A","TVS_UNI","300pF","SMA","TVS DIODE 28V 45.4V SMA","Bourns","SMAJ28A","Surface Mount","400W","34.4V","Unidirectional",,"34.4V","3.5V","150°C","31.1V","-55°C","2","No SVHC",,,"2.42mm","4.57mm","2.92mm"
 "SMAJ28CA","TVS_BI","0uF","SMA","TVS DIODE 28VWM 45.4VC DO214AC","Bourns","SMAJ28CA","Surface Mount","400W","34.4V","Bidirectional",,,"0V","150°C","31.1V","-55°C","2",,,,,,
