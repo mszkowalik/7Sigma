@@ -3,3 +3,5 @@ CSVs
 /SIM/__Previews
 __pycache__
 /7Sigma.ldb
+/_tools/python/python-3.7.1/Lib/ctypes/__pycache__
+/_tools/python/python-3.7.1/Lib/site-packages/pyperclip/__pycache__
