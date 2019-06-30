@@ -1,7 +1,7 @@
 "Part Number","Library Ref","Resistance","Tolerance","Current Rating","Voltage Rating (DC)","Case Code (Imperial)","Power Rating","Mount","Manufacturer","Manufacturer Part Number","Case Code (Metric)","Description","Depth","Footprint Ref","Height","HelpURL","RoHS","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Stats","REACH SVHC"
-"R_0R_0402_1","R","0","0.01",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-070RL","1005","Thick Film",,"R_0402_1005","0mm","http://datasheet.octopart.com/2176049-1-TE-Connectivity---AMP-datasheet-11120217.pdf","Compliant","Lead Free","0mm","155","-55","MK",
+"R_0R_0402_1","R","0","0.01",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-070RL","1005",,,"R_0402_1005","0mm","http://datasheet.octopart.com/2176049-1-TE-Connectivity---AMP-datasheet-11120217.pdf","Compliant","Lead Free","0mm","155","-55","MK",
 "R_0R_0603_1","R","0","0.01",,,"0603","63mW","Surface Mount",,,"1608",,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
-"R_0R_0805_5","R","0","0.05","2A","150V","0805","125mW","Surface Mount",,,"2012",,"1.25mm","R_0805_2012","600µm",,,"Lead Free","2mm","155°C","-55°C",,"No SVHC"
+"R_0R_0805_5","R","0","0.05","2A","150V","0805","125mW","Surface Mount","Yageo","RC0805JR-070RL","2012","Thick Film","1.25mm","R_0805_2012","0.6mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","Lead Free","2mm","155°C","-55°C","MK","No SVHC"
 "R_0R_1210_5","R","0","0.05",,"200V","1210","500mW","Surface Mount","Panasonic","ERJ-14Y0R00U","3225","Thick Film","2.6mm","R_1210_3225","500µm","http://datasheet.octopart.com/ERJ-14Y0R00U-Panasonic-datasheet-5314550.pdf","Compliant","Lead Free","3.1mm","155°C","-55°C","MK","No SVHC"
 "R_0R0_2512_1","R","0","0",,,"2512","250mW","Surface Mount",,,"6332",,,"R_2512_6432","0mm",,,,"0mm","0°C","0°C",,
 "R_0R002_2412","R","2m","0",,,"2412","125mW","Surface Mount",,,,,,"R_1210_3225","0mm",,,,"0mm","0°C","0°C",,
@@ -17,12 +17,12 @@
 "R_0R03_1206_1","R","30m","0",,,"1206","63mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
 "R_0R039_1206_1","R","39m","0.01",,,"1206","1W","Surface Mount",,,"3216",,"1.6mm","R_1206_3216","760µm",,,,"3.2mm","125°C","-55°C",,"No SVHC"
 "R_0R04_2512","R","40m","0",,,"2512","0W","Surface Mount",,,"6332",,,"R_2512_6432","0mm",,,,"0mm","0°C","0°C",,
-"R_0R05_0805_1","R","50m","0.01",,,"0805","125mW","Surface Mount",,,"2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
+"R_0R05_0805_1","R","50m","0.01",,,"0805","250mW","Surface Mount","Bourns","CRM0805-FW-R050ELF ","2012","Thick Film",,"R_0805_2012","0.4mm","https://pl.mouser.com/datasheet/2/54/CRM0805_1206_2010-1110565.pdf","Compliant","Lead Free","2mm","-55","155","MK",
 "R_0R05_1206_5","R","50m","0.05",,,"1206","1W","Surface Mount",,,"3216",,,"R_1206_3216","762µm",,,,"3.2mm","125°C","-55°C",,
-"R_0R1_0805_1","R","0.1","0.01",,,"0805","125mW","Surface Mount",,,"2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
+"R_0R1_0805_1","R","0.1","0.01",,,"0805","125mW","Surface Mount","Bourns","CRM0805AFX-R100ELF","2012","Thick Film","1.25mm","R_0805_2012","0.5mm","https://pl.mouser.com/datasheet/2/54/bourns_06052019_CRxxxxA-AS_datasheet-1601153.pdf","Compliant","Lead Free","2mm","155","-55","MK",
 "R_0R1_1206_1","R","0.1","0.01",,,"1206","250mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
 "R_0R1_2512_1","R","100m","0.01",,,"2512","1W","Surface Mount","Bourns","CRL2512-FW-R100ELF","6332","Thick Film","3.1mm","R_2512_6432","500um","http://datasheet.octopart.com/CRL2512-FW-R100ELF-Bourns-datasheet-68302002.pdf","Compliant","Lead Free","6.3mm","125","-55","MK",
-"R_0R2_1206_1","R","0.2","0.01",,,"1206","250mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
+"R_0R2_1206_1","R","0.2","0.01",,,"1206","250mW","Surface Mount","Yageo","RL1206FR-070R2L","3216","Current Sense Resistor",,"R_1206_3216","0.55mm","https://pl.mouser.com/datasheet/2/447/PYu-RL_Group_521_RoHS_L_2-1131815.pdf","Compliant","Lead Free","3.1mm","125","-55","MK",
 "R_0R2_2512_1","R","0.2","0.01",,,"2512","1W","Surface Mount",,,"6332",,"3.2mm","R_2512_6432","550µm",,,"Lead Free","6.35mm","125°C","-55°C",,
 "R_0R25_2512","R","0.25","0",,,"2512","0W","Surface Mount",,,"6332",,,"R_2512_6432","0mm",,,,"0mm","0°C","0°C",,
 "R_0R27_0805_1","R","0.27","0.01",,,"0805","125mW","Surface Mount",,,"2012",,"1.25mm","R_0805_2012","600µm",,,"Contains Lead","2mm","125°C","-55°C",,"No SVHC"
@@ -41,7 +41,7 @@
 "R_100R_1206_1","R","100","0.01",,"500V","1206","100mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
 "R_100R_1210_1","R","100","0",,,"1210","100mW","Surface Mount",,,"3225",,,"R_1210_3225","0mm",,,,"0mm","0°C","0°C",,
 "R_105K_0402_1","R","105k","0.01",,,"0402","25mW","Surface Mount","Yageo","RC0402FR-07105KL","1005",,,"R_0402_1005","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,,"0mm","0°C","0°C",,
-"R_10K_0402_1","R","10k","0.01",,"50V","0402","100mW","Surface Mount","Panasonic","ERJ2RKF1002X","1005","Thick Film","0.5mm","R_0402_1005","350µm","http://datasheet.octopart.com/ERJ-2RKF1002X-Panasonic-datasheet-13266541.pdf","Compliant","Lead Free","1mm","155","-55","MK","No SVHC"
+"R_10K_0402_1","R","10k","0.01",,"50V","0402","100mW","Surface Mount","Panasonic","ERJ-2RKF1002X","1005","Thick Film","0.5mm","R_0402_1005","350µm","http://datasheet.octopart.com/ERJ-2RKF1002X-Panasonic-datasheet-13266541.pdf","Compliant","Lead Free","1mm","155","-55","MK","No SVHC"
 "R_10K_0603_1","R","10k","0.01",,,"0603","250mW","Surface Mount",,,"1608",,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
 "R_10K_0805_1","R","10k","0.01",,,"0805","125mW","Surface Mount",,,"2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
 "R_10K_1206_1","R","10k","0.01",,,"1206","250mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
@@ -104,7 +104,7 @@ RC0402FR-07113KL","2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
 "R_1M_THT_5","R","1Meg","0.05",,"3.5kV","THT","125mW","Through Hole",,,,,,"R_AXIAL_5.069_0.9","0mm",,,,"0mm","0°C","0°C",,
 "R_1R_0402_1","R","1","0.01",,"50V","0402","62.5mW","Surface Mount","Yageo","RC0402FR-131RL","1005",,"0.5mm","R_0402_1005","320µm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,"Lead Free","1mm","155°C","-55°C",,"No SVHC"
 "R_1R_0603_1","R","1","0.01",,"50V","0603","100mW","Surface Mount",,,"1608",,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
-"R_1R_0805_1","R","1","0.01",,,"0805","250mW","Surface Mount",,,"2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
+"R_1R_0805_1","R","1","0.01",,,"0805","250mW","Surface Mount","Yageo","RC0805FR-131RL","2012","Thick Film",,"R_0805_2012","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","Lead Free","2mm","155","-55","MK",
 "R_1R_1206_1","R","1","0.01",,,"1206","100mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
 "R_1R_1210_1","R","1","0.01",,,"1210","100mW","Surface Mount",,,"3225",,,"R_1210_3225","0mm",,,,"0mm","0°C","0°C",,
 "R_1R2_1206_1","R","1.2","0.01",,,"1206","250mW","Surface Mount",,,"3216",,,"R_1206_3216","0mm",,,,"0mm","0°C","0°C",,
@@ -132,7 +132,7 @@ Yageo","2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
 Yageo",,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
 "R_22K_0603_1","R","22k","0.01",,"50V","0603","100mW","Surface Mount",,,,,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
 "R_22K_0805_1","R","22k","0.01",,,"0805","100mW","Surface Mount",,,"2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
-"R_22R_0402_1","R","22","0.01",,"50V","0402","63mW","Surface Mount",,,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
+"R_22R_0402_1","R","22","0.01",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-0722RL","1005","Thick Film",,"R_0402_1005","0.35mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","Lead Free","0mm","0°C","0°C","MK",
 "R_22R_0603_5","R","22","0.05",,"50V","0603","125mW","Surface Mount",,,"1608",,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
 "R_23K2_0402_1","R","23.2k","0.01",,"50V","0402","125mW","Surface Mount","Yageo","RC0402FR-0723K2L","1005",,,"R_0402_1005","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,,"0mm","0°C","0°C",,
 "R_24.9K_0402_1","R","2.49k","0.01",,"50V","0402","125m","Surface Mount","Panasonic","ERJ-2RKF2492X","1005","Thick Film","0.5mm","R_0402_1005","350um","http://datasheet.octopart.com/ERJ-2RKF2492X-Panasonic-datasheet-13266541.pdf","Compliant","Lead Free","1mm","155","-55","MK","No SVHC"
@@ -175,8 +175,8 @@ Yageo",,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
 "R_33K_0603_1","R","33k","0.01",,"75V","0603","100mW","Surface Mount",,,"1608",,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
 "R_33K_0805_1","R","33k","0.01",,,"0805","125mW","Surface Mount",,,"2012",,,"R_0805_2012","0mm",,,,"0mm","0°C","0°C",,
 "R_33R_0402_1","R","33","0.01",,,"0402","100mW","Surface Mount",,,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
-"R_357K_0402_1","R","357k","0.01",,,"0402","63mW","Surface Mount",,,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
-"R_35K7_0402_1","R","35k7","0.01",,,"0402","63mW","Surface Mount",,,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
+"R_357K_0402_1","R","357k","0.01",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-07357KL","1005","Thick Film",,"R_0402_1005","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","Lead Free","0mm","0°C","0°C","MK",
+"R_35K7_0402_1","R","35k7","0.01",,,"0402","63mW","Surface Mount","Yageo","RC0402FR-0735K7L","1005","Thick Film",,"R_0402_1005","0.35mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","Lead Free","0mm","0°C","0°C","MK",
 "R_360R_0402_1","R","360","0.01",,"50V","0402","200mW","Surface Mount",,,"1005",,,"R_0402_1005","0mm",,,,"0mm","0°C","0°C",,
 "R_360R_0603_1","R","360","0.01",,"50V","0603","100mW","Surface Mount",,,"1608",,,"R_0603_1608","0mm",,,,"0mm","0°C","0°C",,
 "R_383K_0402_1","R","383k","0.01",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-07383KL","1005",,"0.5mm","R_0402_1005","400µm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,"Lead Free","3.2mm","155°C","-55°C",,
