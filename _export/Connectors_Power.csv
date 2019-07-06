@@ -1,9 +1,11 @@
 "Part Number","Library Ref","Footprint Ref","Contact Gender","Description","Pitch","Series","Mount","Gender","Height","HelpURL","Max Operating Temperature","Number of Rows","Number of Pins","RoHS","Manufacturer","Manufacturer Part Number"
-"  662004013322","43645-0400","43645-0400","Plug","Headers & Wire Housings WR-MPC3 3mmFeml Sngl 4Pin Receptacle Hsng
+"  662004013322","43645-0400","43645-0400","Plug","Headers & Wire Housings WR-MPC3 3mmFeml Sngl 4Pin Receptacle Hsng
+
 Headers & Wire Housings WR-MPC3 3mmFeml Sngl 4Pin Receptacle Hsng","3mm","WR-MPC3","Cable",,,"https://pl.mouser.com/datasheet/2/445/6620xx013322-537840.pdf","105°C",,,,"Wurth Electronics",
 " 662002013322","43645-0200","43645-0200","Plug","Headers & Wire Housings WR-MPC3 3mmFeml Sngl 2Pin Receptacle Hsng","3mm","WR-MPC3","Cable",,,"https://pl.mouser.com/datasheet/2/445/6620xx013322-537840.pdf","105°C",,,,"Wurth Electronics",
 " 66200221022","HEADER_1x2","43045-0200","Receptacle","Headers & Wire Housings WR-MPC3 3mmMale Angd 2Pin DualRw PlstPegs","3mm","WR-MPC3","Through Hole",,,"https://pl.mouser.com/datasheet/2/445/6620xx11122-336086.pdf","105°C",,,,"Wurth Electronics",
-" 66200621022","HEADER_2x3","43045-0600","Receptacle","Headers & Wire Housings WR-MPC3 3mmMale Angd 6Pin DualRw PlstPegs
+" 66200621022","HEADER_2x3","43045-0600","Receptacle","Headers & Wire Housings WR-MPC3 3mmMale Angd 6Pin DualRw PlstPegs
+
 Headers & Wire Housings WR-MPC3 3mmMale Angd 6Pin DualRw PlstPegs","3mm","WR-MPC3","Through Hole",,,"https://pl.mouser.com/datasheet/2/445/6620xx11122-336086.pdf","105°C",,,,"Wurth Electronics",
 "105309-1102","105309-1102","105309-1102",,"Conn Power HDR 2 POS 2.5mm Solder ST Thru-Hole 2 Terminal","0mm","Nano-Fit","Through Hole","Female",,"https://www.molex.com/pdm_docs/sd/1053091102_sd.pdf","0°C","1","5",,"Molex","105309-1102"
 "105309-1103","105309-1103","105309-1103",,"Conn Power HDR 3 POS 2.5mm Solder ST Thru-Hole 3 Terminal","0mm","Nano-Fit","Through Hole","Female",,"http://datasheet.octopart.com/105309-1103-Molex-datasheet-101610410.pdf","0°C","1","6",,"Molex","105309-1103"
