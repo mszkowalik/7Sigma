@@ -9,7 +9,7 @@
 "C_100nF_25V_X7R_0402_10","C","C_0402_1005","100nF","Ceramic Capacitor","0402","X7R","Surface Mount","25V","10%","CC0402KRX7R8BB104","Yageo",,"http://datasheet.octopart.com/CC0402JRX7R9BB681-Yageo-datasheet-10883670.pdf",,,
 "C_100NF_50V_C0G_1206_5","C","C_1206_3216","100nF","Ceramic Capacitor","1206","C0G","Surface Mount","50V","10%",,,"0mm",,,,
 "C_100NF_50V_X7R_0603_5","C","C_0603_1608","100nF","Ceramic Capacitor","0603","X7R","Surface Mount","50V","5%","CC0603JRX7R9BB104","Yageo","0mm","http://datasheet.octopart.com/CC0603JRX7R9BB104-Yageo-datasheet-10883670.pdf",,"125",
-"C_100NF_50V_X7R_0805_10","C","C_0805_2012","100nF","Ceramic Capacitor","0805","X7R","Surface Mount","50V","10%","UMK212BJ104KG-T","Taiyo Yuden","0mm","http://datasheet.octopart.com/UMK212BJ104KG-T-Taiyo-Yuden-datasheet-118905.pdf",,,
+"C_100NF_50V_X7R_0805_10","C","C_0805_2012","100nF","Ceramic Capacitor","0805","X7R","Surface Mount","50V","10%","C0805X104K5RAC","KEMET","0.78mm","http://datasheet.octopart.com/C0805X104K5RAC-KEMET-datasheet-84169754.pdf","Compliant","125","MK"
 "C_100NF_50V_Y5V_0805_80","C","C_0805_2012","100nF","Ceramic Capacitor","0805","Y5V","Surface Mount","50V","80%",,,"600um",,"Compliant","125",
 "C_100NF_630V_X7R_1812_10","C","C_1812_4532","100nF","Ceramic Capacitor","1812","X7R","Surface Mount","630V","10%",,,"0mm",,,,
 "C_100NF_6V3_X5R_0402_10","C","C_0402_1005","100nF","Ceramic Capacitor","0402","X5R","Surface Mount","6.3V","10%","GRM155R60J104KA01D","Murata","0mm","http://datasheet.octopart.com/GRM155R60J104KA01D-Murata-datasheet-12510170.pdf","Compliant","85","MK"
@@ -28,8 +28,7 @@
 "C_10NF_50V_X7R_0603_20","C","C_0603_1608","10nF","Ceramic Capacitor","0603","X7R","Surface Mount","50V","20%","CC0603MRX7R9BB103","Yageo","800um","http://datasheet.octopart.com/CC0603MRX7R9BB103-Yageo-datasheet-10883670.pdf",,"125",
 "C_10NF_630V_X7R_1206_10","C","C_1206_3216","10nF","Ceramic Capacitor","1206","X7R","Surface Mount","630V","10%",,,"0mm",,,,
 "C_10PF_50V_C0G_0402_5","C","C_0402_1005","10pF","Ceramic Capacitor","0402","C0G","Surface Mount","50V","5%","CC0402JRNPO9BN100","Yageo","500um","http://datasheet.octopart.com/CC0402JRNPO9BN100-Yageo-datasheet-10406438.pdf","Compliant","125",
-"C_10UF_10V_X7R_0805_10","C","C_0805_2012","10uF","Ceramic Capacitor","0805","X7R","Surface Mount","10V","10%",,,"0mm",,,,
-"C_10UF_10V_X7R_0805_10","C","C_0805_2012","10uF","Ceramic Capacitor","0805","X7R","Surface Mount","10V","20%",,,"1.25mm",,"Compliant","125",
+"C_10UF_10V_X7R_0805_10","C","C_0805_2012","10uF","Ceramic Capacitor","0805","X7R","Surface Mount","10V","10%","LMK212B7106KG-TD","Taiyo Yuden","1.25mm","http://datasheet.octopart.com/LMK212B7106KG-TD-Taiyo-Yuden-datasheet-8857305.pdf","Compliant","125","MK"
 "C_10UF_16V_X5R_0603_20","C","C_0603_1608","10uF","Ceramic Capacitor","0603","X5R","Surface Mount","16V","20%","GRM188R61C106MA73D","Murata","0.8mm","https://pl.mouser.com/datasheet/2/281/murata_03052018_GRM_Series_1-1310166.pdf","Compliant","85","MK"
 "C_10UF_25V_X5R_0805_20","C","C_0805_2012","10uF","Ceramic Capacitor","0805","X5R","Surface Mount","25V","20%","TMK212BBJ106MG-T","Taiyo Yuden","1.25mm","https://pl.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf","Compliant","85","MK"
 "C_10UF_25V_X5R_1206_10","C","C_1206_3216","10uF","Ceramic Capacitor","1206","X5R","Surface Mount","25V","10%",,,"850um",,"Compliant","85",

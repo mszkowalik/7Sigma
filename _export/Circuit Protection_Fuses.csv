@@ -15,5 +15,4 @@
 "F_2A_20V_1812","F","Fuse",,"0A",,"F_1812_4532","0mm",,"0A","0mm",,,"0°C","0W","0V","Surface Mount",,,"0s","0A",
 "F_4A_24V_2920","F","Fuse",,"0A",,"F_2920_7351","0mm",,"0A","0mm",,,"0°C","0W","0V","Surface Mount",,,"0s","0A",
 "F_THT_10X3X140","F","Fuse",,"0A",,"F_THT_5.1MM_10X3X140","0mm",,"0A","0mm",,,"0°C","0W","0V","Through Hole",,,"0s","0A",
-"MF-SM185/33-2","F","Fuse",,"40A","MF-SM","MS-SM_4.6MMX10.7MM","3mm","https://datasheet.octopart.com/MF-SM185/33-2-Bourns-datasheet-8854793.pdf",,"8mm","Bourns","MF-SM185/33
-MF-SM185/33-2","85","1.9W","33V","Surface Mount","6m","Complianr","Compliant","3.6A","MK"
+"MF-SM185/33-2","F","Fuse",,"40A","MF-SM","MS-SM_4.6MMX10.7MM","3mm","https://datasheet.octopart.com/MF-SM185/33-2-Bourns-datasheet-8854793.pdf",,"8mm","Bourns","MF-SM185/33-2","85","1.9W","33V","Surface Mount","6m","Complianr","Compliant","3.6A","MK"

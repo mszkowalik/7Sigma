@@ -1,2 +1,2 @@
-"Part Number","Library Ref","Case/Package","Description","Tolerance","Mount","Footprint Ref","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Number of Pins","REACH SVHC","Resistance","Termination","Weight","Width"
-"TC33X-2-503E","TC33X-2-503E","3mm","TRIMMER 50K OHM 0.1W J LEAD TOP","0.25","Surface Mount","TC33X-2-503E-Footprint-1","1.2mm","https://pl.mouser.com/datasheet/2/54/c33-778219.pdf","Contains Lead","3.8mm","100°C","-40°C","2","No SVHC","50k","Foot Print","29.4mg","3.6mm"
+"Part Number","Library Ref","Description","Tolerance","Mount","Footprint Ref","Height","HelpURL","Length","Max Operating Temperature","Resistance","Manufacturer","Manufacturer Part Number","RoHS","Status"
+"TC33X-2-503E","TC33X-2-503E","TRIMMER 50K OHM 0.1W J LEAD TOP","0.25","Surface Mount","TC33X-2-503E-Footprint-1","1.2mm","https://pl.mouser.com/datasheet/2/54/c33-778219.pdf","3.8mm","100°C","50k","Bourns","TC33X-2-503E","Compliant","MK"
