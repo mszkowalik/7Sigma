@@ -1,2 +1,3 @@
 "Part Number","Library Ref","Footprint Ref","Description","Manufacturer","Manufacturer Part Number","HelpURL","Status","RoHS","Output Voltage","Chemistry/Technology","Capacity","Max Operating Temperature","Min Operating Temperature","Mount","Length","Height","Diameter","Width","Cells"
+"2412_Coin_Cell","BATT",,"2412 Coin Cell Mid Mount Battery Holder",,,,"MK",,,,,,,"Surface Mount",,"1.2mm","24mm",,"1"
 "55608303059","BATT","55608303059","Rechargeable Battery, Robust, Single Cell, 3.6 V, Nickel Metal Hydride, 70 mAh, Button Cell","Varta","55608303059","http://datasheet.octopart.com/55608303059-Varta-datasheet-155713.pdf","MK","Non-Compliant","3.6V","Ni-MH","70mAh",,"-20","Through Hole",,"19.9mm","16mm",,
