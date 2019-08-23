@@ -6,6 +6,7 @@
 "ABM8-40.000MHZ-10-1-U-T","X_GROUNDED","X_3.2x2.5","SMD/SMT","Resonator Ceramic","40MHz",,,"0mm","https://datasheet.octopart.com/ABM8-40.000MHZ-10-1-U-T-Abracon-datasheet-122013.pdf",,"0mm",,,,,,,"0mm",,
 "ABM8AIG_GENERAL","X_GROUNDED","ABM3B_5X3X11","SMD/SMT","Resonator Ceramic","0Hz",,,"0mm",,,"0mm",,,,,,,"0mm",,
 "ABM8AIG-25.000MHZ-12-2Z-T3","X_GROUNDED","ABM3B_5X3X11","SMD/SMT","Resonator Ceramic","25MHz",,,"0mm","http://datasheet.octopart.com/ABM8AIG-25.000MHZ-12-2Z-T3-Abracon-datasheet-78375026.pdf",,"0mm",,,,,,,"0mm",,
+"ABS10-32.768KHZ-4-T","X","ABS10_4.9X1.8","SMD/SMT","Crystal","32.768kHz","Surface Mount","20ppm",,"https://datasheet.octopart.com/ABS10-32.768KHZ-4-T-Abracon-datasheet-11046234.pdf","Lead Free",,"85","-40","2","No SVHC","Compliant",,,"Abracon","ABS10-32.768KHZ-4-T"
 "TSX-322516.0000MF18X-AC0","X_GROUNDED","X_3.2x2.5","SMD/SMT","Resonator Ceramic","16MHz","Surface Mount","10ppm","600um","https://support.epson.biz/td/api/doc_check.php?dl=brief_TSX-3225&lang=en","Lead Free","3.2mm","75C","-20C","4",,,,"2.5mm","Epson","TSX-322516.0000MF18X-AC0"
 "X_12MHZ_AB26TRQ","X","AB26TRQ_5X2X15","SMD/SMT","Resonator Ceramic","12MHz",,,"0mm",,,"0mm",,,,,,,"0mm",,
 "X_16MHZ_HCM49","X","HCM49_11X5X43","SMD/SMT","Resonator Ceramic","16MHz",,,"0mm","http://datasheet.octopart.com/HCM49-16.000MABJ-UT-Citizen-datasheet-11478.pdf",,"0mm",,,,,,,"0mm",,
