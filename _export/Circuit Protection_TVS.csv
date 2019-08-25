@@ -14,8 +14,8 @@
 "P6SMB15A","TVS_BI","0uF",,,"Littelfuse","P6SMB15A","Surface Mount","0W",,,"http://datasheet.octopart.com/P6SMB15A-Littelfuse-datasheet-68508758.pdf",,"0V",,"0V","2",,,
 "PESD0402-140","TVS_BI","0.25pF","0402","Bidirectional protection","Littelfuse","PESD0402-140","Surface Mount",,"14V","Bidirectional","https://datasheet.octopart.com/PESD0402-140-Littelfuse-datasheet-11092697.pdf","40V","14V",,"40V","2","Compliant","0.35mm","TVS_0402_1005"
 "PESD5V2S2UT.215","TVS_DOUBLE_SOT23-3","0uF",,"Double ESD protection diodes","Nexperia","PESD5V2S2UT.215","Surface Mount","0W",,,"http://www.tme.eu/en/Document/261ec6993ac66148c5792dbb8ac50fb2/PESD5V2S2UT.pdf",,"0V",,"0V","3",,,
-"PS04LTVA1","TVS_BI","0uF",,,"Bussmann","PS04LTVA1","Surface Mount","0W",,,"https://pl.mouser.com/datasheet/2/87/31fc02c3-c2a7-4757-9ba5-5a4597d899a4-33212.pdf",,"0V",,"0V","2",,,
 "PS04LTVA1","TVS_BI","0uF",,,"Bussmann","PS04LTVA1","Surface Mount","0W",,,"http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4083_PSO4LTVA1.pdf",,"0V",,"0V","2",,,
+"PS04LTVA1","TVS_BI","0uF",,,"Bussmann","PS04LTVA1","Surface Mount","0W",,,"https://pl.mouser.com/datasheet/2/87/31fc02c3-c2a7-4757-9ba5-5a4597d899a4-33212.pdf",,"0V",,"0V","2",,,
 "SMAJ20CA-E3/5A","TVS_BI","0uF","SMA","Diode TVS Single Bi-Dir 20V 400W 2-Pin SMA T/R","Vishay","SMAJ20CA-E3/5A","Surface Mount","400W","22.2V","Bidirectional","http://datasheet.octopart.com/P6SMB15A-Littelfuse-datasheet-68508758.pdf",,"0V","150°C","22.2V","2",,,"DO-214AC"
 "SMAJ28A","TVS_UNI","300pF","SMA","TVS DIODE 28V 45.4V SMA","Bourns","SMAJ28A","Surface Mount","400W","34.4V","Unidirectional",,"34.4V","3.5V","150°C","31.1V","2",,"2.42mm",
 "SMAJ28CA","TVS_BI","0uF","SMA","TVS DIODE 28VWM 45.4VC DO214AC","Bourns","SMAJ28CA","Surface Mount","400W","34.4V","Bidirectional",,,"0V","150°C","31.1V","2",,,

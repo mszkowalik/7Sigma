@@ -1,7 +1,8 @@
 "Part Number","Library Ref","Footprint Ref","Manufacturer Part Number","Manufacturer","Description","Max Output Current","Max Power Dissipation","Mount","Nominal Output Voltage","Case/Package","Polarity","Output Type","Accuracy","Dropout Voltage","Height","HelpURL","Marking","Max Input Voltage","Max Operating Temperature","Max Output Voltage","Min Input Voltage","Min Output Voltage","Number of Pins","Quiescent Current","Reference Voltage","RoHS","Status"
 "AP1117Y50L-13","AP1117Y50L-13","SOT89_TO-243AA","AP1117Y50L-13",,"LDO Regulator Pos 5V 1A","1A","15W","Surface Mount","5V","SOT-89-3","Positive","Fixed","0","1.3V","1.5mm",,,"18V","125°C","0V","6.4V","0V","4","10mA",,,
 "KA7805ERTF","KA7805ERTF","DPAK_TO252-3_SC63_M","KA7805ERTF",,"5 V Fixed Output 1 A SMT 3-Terminal LDO Regulator","1A","0W","Surface Mount","5V","DPAK","Positive","Fixed","0.04","2V","2.38mm","http://datasheet.octopart.com/KA7805ERTF-ON-Semiconductor-datasheet-86697521.pdf",,"35V","125°C","20.5V","35V","5V","3","8mA",,,
-"L78L05CD13TR
+"L78L05CD13TR
+
 R","L78L05CD13TR","SOIC127P600X170-8N","L78L05CD13TR","STMicroelectronics","NA","0A","0W","Surface Mount","5V","SO8",,,"0","0V","0mm","http://datasheet.octopart.com/L78L05CD13TR-STMicroelectronics-datasheet-12512320.pdf",,"0V","0°C","0V","0V","0V",,"0A",,,
 "L78L33ACD13TR","L78L33ACD13TR","SOIC127P600X170-8N","L78L33ACD13TR","STMicroelectronics","NA","0A","0W","Surface Mount","3.3","SO8",,,"0","0V","0mm","http://www.farnell.com/datasheets/1897877.pdf",,"0V","0°C","0V","0V","0V",,"0A",,,
 "L78L33CD-TR","L78L33CD-TR","SOIC127P600X170-8N","L78L33CD-TR","STMicroelectronics","L78L Series 3.3 V 100 mA Fixed Positive Voltage Regulator","100mA",,"Surface Mount","3.3V","SO8","Positive","Fixed","0.08","1.7V",,"https://datasheet.octopart.com/L78L33CD-TR-STMicroelectronics-datasheet-10404867.pdf",,"30V","125","3.3V","5V","3.3V","8","6mA",,"Compliant","MK"
