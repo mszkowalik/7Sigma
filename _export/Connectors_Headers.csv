@@ -1,4 +1,5 @@
 "Part Number","Library Ref","Manufacturer","Manufacturer Part Number","Footprint Ref","Description","Gender","Pitch","Mount","Number of Rows","Orientation","Series","Height","HelpURL","Max Operating Temperature","Number of Pins","RoHS"
+,,,,,,,,,,,,,,,,
 "0022284194","0022284194","Molex","0022284194","HEADER_M_1x19_2.54","Header, 19-Pin","Male","2mm","Through Hole","1",,,,"http://datasheet.octopart.com/022284194-Molex-datasheet-8335610.pdf","0°C","24",
 "10114826-00004LF","HEADER_1x4","FCI","10114826-00004LF","10114826-00004LF","Header, 3-Pin","Male","0mm",,"1",,,,"http://datasheet.octopart.com/10114826-00004LF-FCI-datasheet-11517395.pdf","0°C","4",
 "10114827-00001LF","10114827-00001LF","FCI","10114827-00001LF","10114827-00001LF","Header, 3-Pin","Male","0mm",,"1",,,,"http://datasheet.octopart.com/10114827-001LF-FCI-datasheet-11533850.pdf","0°C","19",
@@ -30,6 +31,7 @@
 "HEADER_M_2x13_2.54","HEADER_M_2x13_2.54",,,"HEADER_M_2x13_2.54","Header, 26-Pin, Dual row","Male","2.54mm","Through Hole","2",,,,,"0°C","26",
 "HEADER_M_2x19_2.54","HEADER_M_2x19_2.54",,,"HEADER_M_2x19_2.54","Header, 38-Pin, Dual row","Male","2.54mm","Through Hole","2",,,,,"0°C","26",
 "M20-7831042","M20-7831042","Harwin","M20-7831042","M20-9981046","Headers & Wire Housings 10+10 DIL VERTICAL PIN HEADER TIN","Female","500µm","Through Hole","2","Straight","M20",,"http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf","105°C","4",
+"M20-9750446","HEADER_1x4","Harwin","M20-9750446","HEADER_M_Right_Angle_1x4_2.54","Header, 4-Pin, Right angle","Male","2.54mm","Through Hole","1","Right Angle","M20",,"https://pl.mouser.com/datasheet/2/181/M20-975-1220539.pdf","105","4","Compliant"
 "M20-9981046","M20-9981046","Harwin","M20-9981046","M20-9981046-Footprint-1","Headers & Wire Housings 10+10 DIL VERTICAL PIN HEADER TIN","Male","2.54mm","Through Hole","2","Straight","M20",,"https://datasheet.octopart.com/M20-9981046-Harwin-datasheet-32864539.pdf","105°C","34",
 "ZL305-20","ZL305-20","
 
