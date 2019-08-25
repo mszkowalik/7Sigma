@@ -9,7 +9,6 @@
 "SN65HVD1780DR","SN65HVD1780DR","SOIC127P600X170-8N","Texas Instruments","SOIC","905mW","Surface Mount","SN65HVD178x Fault-Protected RS-485 Transceivers With 3.3-V to 5-V Operation","1.75mm","http://www.ti.com/lit/ds/slls877h/slls877h.pdf","Transceiver",,,"105°C",,"5.5V","3.15V","8","Compliant",,"SN65HVD1780DR"
 "SN65HVD1782D","SN65HVD1782D","SOIC127P600X170-8N","Texas Instruments","SOIC","905mW","Surface Mount","Fault-Protected RS-485 Transceivers With 3.3-V to 5-V Operation","1.58mm","http://www.ti.com/lit/ds/slls877h/slls877h.pdf","Transceiver",,,"105°C",,"5.5V","3.15V","8","Compliant",,"SN65HVD1782D"
 "TCA9517DGKR","TCA9517DGKR","VSSOP8_3X3","Texas Instruments","VSSOP",,"Surface Mount","Level-Shifting I2C Bus Repeater","0.95mm","http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tca9517&fileType=pdf","Translator",,"400kHz","85°C",,"5.5V","900mV","8","Compliant",,"TCA9517DGKR"
-"TCA9803DGKR","TCA980X","VSSOP8_3X3","Texas Instruments","VSSOP8",,"Surface Mount","Level-Translating I
-
+"TCA9803DGKR","TCA980X","VSSOP8_3X3","Texas Instruments","VSSOP8",,"Surface Mount","Level-Translating I
 2C Bus Buffer/Repeater","1.1mm","http://www.ti.com/lit/ds/symlink/tca9803.pdf","Buffer","15C","400kHz","130","45uA","3.6V","0.8V","8","Compliant","MK","TCA9803DGKR"
 "TRS3232EQPWRQ1","TRS3232E","TSSOP16_6.4X5X11","Texas Instruments","TSSOP16",,"Surface Mount","Multichannel RS232 Driver/Receiver",,"http://www.ti.com/lit/ds/symlink/trs3232e-q1.pdf","Transceiver",,"250kHz","125","1","5.5V","3V","16","Compliant",,"TRS3232EQPWRQ1"
