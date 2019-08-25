@@ -1,12 +1,13 @@
 "Part Number","Library Ref","Manufacturer","Manufacturer Part Number","Footprint Ref","Description","Gender","Pitch","Mount","Number of Rows","Orientation","Series","Height","HelpURL","Max Operating Temperature","Number of Pins","RoHS"
+,,,,,,,,,,,,,,,,
 "0022284194","0022284194","Molex","0022284194","HEADER_M_1x19_2.54","Header, 19-Pin","Male","2mm","Through Hole","1",,,,"http://datasheet.octopart.com/022284194-Molex-datasheet-8335610.pdf","0°C","24",
 "10114826-00004LF","HEADER_1x4","FCI","10114826-00004LF","10114826-00004LF","Header, 3-Pin","Male","0mm",,"1",,,,"http://datasheet.octopart.com/10114826-00004LF-FCI-datasheet-11517395.pdf","0°C","4",
 "10114827-00001LF","10114827-00001LF","FCI","10114827-00001LF","10114827-00001LF","Header, 3-Pin","Male","0mm",,"1",,,,"http://datasheet.octopart.com/10114827-001LF-FCI-datasheet-11533850.pdf","0°C","19",
 "10114830-10104LF","HEADER_1x4","FCI","10114830-10104LF","10114830-10104LF","Header, 4-Pin","Female","0mm","Surface Mount","1",,,,"http://datasheet.octopart.com/10114830-10104LF-FCI-datasheet-11519768.pdf","0°C","4",
 "1-826629-0","HEADER_1x10","TE Connectivity","1-826629-0","HEADER_M_1x10_2.54","Header, 10-Pin","Male","2.54mm","Through Hole","1",,,,"https://octopart.com/datasheet/1-826629-0-te+connectivity-40936747","0°C","2",
 "1-826632-0","HEADER_2x10","TE Connectivity","1-826632-0","HEADER_M_2x10_2.54","SMA Edge connector 9.53","Male","2.54mm","Through Hole","2",,,,"https://octopart.com/datasheet/826632-5-te+connectivity-40939523","0°C","20",
-"20021121-00010C4LF","20021121-00010C4LF","FCI","20021121-00010C4LF","HEADER_M_2x5_1.27_SMD","10 Positions Header, Unshrouded Connector 0.050 (1.27mm) Surface Mount Gold""","Male","1.27mm","Surface Mount","2","Straight",,,"http://datasheet.octopart.com/20021121-00010C4LF-Amphenol-datasheet-102830508.pdf","85°C","26",
 "20021121-00010C4LF","20021121-00010C4LF","FCI","20021121-00010C4LF","HEADER_M_2x5_1.27_SMD","10 Positions Header, Unshrouded Connector 0.050 (1.27mm) Surface Mount Gold""","Male","1.27mm","Surface Mount","2","Straight",,,"http://datasheet.octopart.com/20021121-00010C4LF-Amphenol-datasheet-102830508.pdf","85°C",,
+"20021121-00010C4LF","20021121-00010C4LF","FCI","20021121-00010C4LF","HEADER_M_2x5_1.27_SMD","10 Positions Header, Unshrouded Connector 0.050 (1.27mm) Surface Mount Gold""","Male","1.27mm","Surface Mount","2","Straight",,,"http://datasheet.octopart.com/20021121-00010C4LF-Amphenol-datasheet-102830508.pdf","85°C","26",
 "20021521-00010T1LF","20021521-00010T1LF","FCI","20021521-00010T1LF","20021521-00010T1LF-Footprint-1","10 Positions Header, Shrouded Connector 0.050 (1.27mm) Surface Mount Gold""","Male","1.27mm","Surface Mount","2","Straight",,,,"85°C","10",
 "22-28-4140","22-28-4140","Molex","22-28-4140","HEADER_M_1x14_2.54","Headers & Wire Housings 2.54MM BREAKAWAY Vertical 14 CKT Tin","Male","2.54mm","Through Hole","1","Straight",,,"http://datasheet.octopart.com/022284194-Molex-datasheet-8335610.pdf","75°C","24","Compilant"
 "30320-5002HB","30320-5002HB","3M","30320-5002HB","M20-9981046","Conn Shrouded Header HDR 20 POS 2.54mm Solder RA Thru-Hole Each","Male","2.54mm","Through Hole","2","Right Angle","M20",,"https://datasheet.octopart.com/30320-5002HB-3M-datasheet-11537585.pdf","105°C","20",
@@ -30,6 +31,7 @@
 "HEADER_M_2x13_2.54","HEADER_M_2x13_2.54",,,"HEADER_M_2x13_2.54","Header, 26-Pin, Dual row","Male","2.54mm","Through Hole","2",,,,,"0°C","26",
 "HEADER_M_2x19_2.54","HEADER_M_2x19_2.54",,,"HEADER_M_2x19_2.54","Header, 38-Pin, Dual row","Male","2.54mm","Through Hole","2",,,,,"0°C","26",
 "M20-7831042","M20-7831042","Harwin","M20-7831042","M20-9981046","Headers & Wire Housings 10+10 DIL VERTICAL PIN HEADER TIN","Female","500µm","Through Hole","2","Straight","M20",,"http://suddendocs.samtec.com/prints/ssw-1xx-xx-xxx-x-xx-xxx-xx-mkt.pdf","105°C","4",
+"M20-9750446","HEADER_1x4","Harwin","M20-9750446","HEADER_M_Right_Angle_1x4_2.54","Header, 4-Pin, Right angle","Male","2.54mm","Through Hole","1","Right Angle","M20",,"https://pl.mouser.com/datasheet/2/181/M20-975-1220539.pdf","105","4","Compliant"
 "M20-9981046","M20-9981046","Harwin","M20-9981046","M20-9981046-Footprint-1","Headers & Wire Housings 10+10 DIL VERTICAL PIN HEADER TIN","Male","2.54mm","Through Hole","2","Straight","M20",,"https://datasheet.octopart.com/M20-9981046-Harwin-datasheet-32864539.pdf","105°C","34",
 "ZL305-20","ZL305-20","
 
