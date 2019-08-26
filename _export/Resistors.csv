@@ -113,6 +113,7 @@ RC0402FR-07113KL",,"R_0805_2012","0mm",,,"0°C",
 "R_1R_0402_1","R","1","1%",,"50V","0402","62.5mW","Surface Mount","Yageo","RC0402FR-131RL",,"R_0402_1005","320µm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,"155°C",
 "R_1R_0603_1","R","1","1%",,"50V","0603","100mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
 "R_1R_0805_1","R","1","1%",,,"0805","250mW","Surface Mount","Yageo","RC0805FR-131RL","Thick Film Resistor","R_0805_2012","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","155","MK"
+"R_1R_1020","R","1R","1%","2A","200V","1020","2W","Surface Mount","KOA Speer","WK73S2H2TTE1R00F","Thisk Film Resistor","R_1020_2550","0.6mm","https://pl.mouser.com/datasheet/2/219/WK73S-1149126.pdf","Compliant","125","AK"
 "R_1R_1206_1","R","1","1%",,,"1206","100mW","Surface Mount",,,,"R_1206_3216","0mm",,,"0°C",
 "R_1R_1210_1","R","1","1%",,,"1210","100mW","Surface Mount",,,,"R_1210_3225","0mm",,,"0°C",
 "R_1R2_1206_1","R","1.2","1%",,,"1206","250mW","Surface Mount",,,,"R_1206_3216","0mm",,,"0°C",
