@@ -79,6 +79,7 @@
 "C_22PF_50V_NP0_0402_5","C","C_0402_1005","22pF","Ceramic Capacitor","0402","NP0","Surface Mount","50V","5%",,,"0mm",,,,
 "C_22UF_10V_X5R_0805_20","C","C_0805_2012","22uF","Ceramic Capacitor","0805","X5R","Surface Mount","10V","20%","LMK212BBJ226MG-T","Taiyo Yuden","1.25mm","https://pl.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf","Compliant","85","MK"
 "C_22UF_16V_X5R_0805_20","C","C_0805_2012","22uF","Ceramic Capacitor","0805","X5R","Surface Mount","16V","20%",,,"850um",,"Compliant","85",
+"C_22UF_25V_X5R_0805_20","C","C_0805_2012","22uF","Ceramic Capacitor","0805","X5R","Surface Mount","25V","20%","GRM21BR61E226ME44K","Murata","1.25mm","http://datasheet.octopart.com/GRM21BR61E226ME44K-Murata-datasheet-14397511.pdf","Compliant","85","MK"
 "C_22UF_6V3_X5R_0805_20","C","C_0805_2012","22uF","Ceramic Capacitor","0805","X5R","Surface Mount","6.3V","20%",,,"0mm",,,,
 "C_2N2F_50V_X7R_0402_10","C","C_0402_1005","2.2nF","Ceramic Capacitor","0402","X7R","Surface Mount","50V","10%","UMK105B7222KV-F","Taiyo Yuden","0.5mm","http://datasheet.octopart.com/UMK105B7222KV-F-Taiyo-Yuden-datasheet-8857305.pdf","Compliant","125","MK"
 "C_2N2F_50V_X7R_0603_10","C","C_0603_1608","2.2nF","Ceramic Capacitor","0603","X7R","Surface Mount","50V","20%",,,"0mm",,,,
