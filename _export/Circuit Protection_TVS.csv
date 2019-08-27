@@ -20,7 +20,7 @@
 "SMAJ28A","TVS_UNI","300pF","SMA","TVS DIODE 28V 45.4V SMA","Bourns","SMAJ28A","Surface Mount","400W","34.4V","Unidirectional",,"34.4V","3.5V","150°C","31.1V","2",,"2.42mm",
 "SMAJ28CA","TVS_BI","0uF","SMA","TVS DIODE 28VWM 45.4VC DO214AC","Bourns","SMAJ28CA","Surface Mount","400W","34.4V","Bidirectional",,,"0V","150°C","31.1V","2",,,
 "SMAJ5.0A-13-F","TVS_UNI","0uF",,,"Diodes Inc","SMAJ5.0A-13-F","Surface Mount","0W",,,"http://datasheet.octopart.com/SMAJ5.0A-13-F-Diodes-Inc.-datasheet-8324759.pdf",,"0V",,"0V","2",,,
-"SMBJ26A","TVS_UNI","0uF",,,"Littelfuse","SMBJ26A","Surface Mount","0W",,,"http://www.tme.eu/pl/Document/757bbc6bd363b88ac75c546b0f817d3b/Littelfuse_TVS-Diode_SMBJ.pdf",,"0V",,"0V","2",,,
+"SMBJ26A","TVS_UNI","0uF","DO-214AC","ESD Suppressors / TVS Diodes 400W 26V 5% Uni-Directional","Littelfuse","SMBJ26A","Surface Mount","400w","28.9V","Unidirectional","https://pl.mouser.com/datasheet/2/240/Littelfuse_TVS_Diode_SMAJ_Datasheet.pdf-540740.pdf","31.9","26V","150","28.9","2","Compliant","2.29","DO-214AC"
 "SMBJ26CA","TVS_BI","0uF",,,"Littelfuse","SMBJ26CA","Surface Mount","0W",,,"http://datasheet.octopart.com/SMBJ26CA-Littelfuse-datasheet-10854588.pdf",,"0V",,"0V","2",,,
 "SMBJ45A","TVS_UNI","0uF",,,"Littelfuse","SMBJ45A","Surface Mount","0W",,,"https://datasheet.octopart.com/SMBJ45A-Littelfuse-datasheet-10854588.pdf",,"0V",,"0V","2",,,
 "SMBJ51A","TVS_UNI","0uF",,,"Littelfuse","SMBJ51A","Surface Mount","0W",,,"http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf",,"0V",,"0V","2",,,
