@@ -1,4 +1,6 @@
 "Part Number","Library Ref","Description","Case Code (Imperial)","Max Current Rating","Case/Package","Footprint Ref","Height","HelpURL","Hold Current","Length","Manufacturer","Manufacturer Part Number","Max Operating Temperature","Max Power Dissipation","Max Voltage Rating (DC)","Mount","Resistance","RoHS","Time to Trip","Trip Current","Status"
+,,,,,,,,,,,,,,,,,,,,,
+"0ZCF0150FF2C","F","Fuse","2920","100A","2920","F_2920_7351","0.9","https://pl.mouser.com/datasheet/2/643/0ZCF_Nov2016-1133542.pdf","1.5A","8mm","Bel Fuse","0ZCF0150FF2C","85","1.5W","33V","Surface Mount","230m","Compliant","2s","3A","AK"
 "0ZCK0050FF2E","F","Fuse","0805","100A","0805","F_0805_2012","0mm","http://datasheet.octopart.com/0ZCK0050FF2E-Bel-Fuse-datasheet-102585932.pdf","500mA","0mm","Bel Fuse","0ZCK0050FF2E","0°C","0W","0V","Surface Mount",,,"100ms","1A",
 "16R700GMR","F","16R Series 16 V 7 A Radial Lead POLY-FUSE PTC Resettable Fuse",,"100A","Radial","F_THT_5.1MM_10X3X140","0mm","http://datasheet.octopart.com/16R700GMR-Littelfuse-datasheet-95953546.pdf","7A","19.7mm","Littelfuse","16R700GMR","85°C","3W","16V","Through Hole","20m",,"3.5s","11.9A","MK"
 "2920L200/24DR","F","PTC Resettable Fuse 2A(hold) 4A(trip) 24VDC 40A 1.5W 5s 0.05Ohm SMD Solder Pad 2920 T/R","2920","40A","2920","F_2920_7351","0mm",,"2A","0mm",,,"85°C","1.5W","24V","Surface Mount","125m",,"5s","4A",
@@ -15,4 +17,4 @@
 "F_2A_20V_1812","F","Fuse",,"0A",,"F_1812_4532","0mm",,"0A","0mm",,,"0°C","0W","0V","Surface Mount",,,"0s","0A",
 "F_4A_24V_2920","F","Fuse",,"0A",,"F_2920_7351","0mm",,"0A","0mm",,,"0°C","0W","0V","Surface Mount",,,"0s","0A",
 "F_THT_10X3X140","F","Fuse",,"0A",,"F_THT_5.1MM_10X3X140","0mm",,"0A","0mm",,,"0°C","0W","0V","Through Hole",,,"0s","0A",
-"MF-SM185/33-2","F","Fuse",,"40A","MF-SM","MS-SM_4.6MMX10.7MM","3mm","https://datasheet.octopart.com/MF-SM185/33-2-Bourns-datasheet-8854793.pdf",,"8mm","Bourns","MF-SM185/33-2","85","1.9W","33V","Surface Mount","6m","Complianr","Compliant","3.6A","MK"
+"MF-SM185/33-2","F","Fuse",,"40A","MF-SM","MS-SM_4.6MMX10.7MM","3mm","https://datasheet.octopart.com/MF-SM185/33-2-Bourns-datasheet-8854793.pdf",,"8mm","Bourns","MF-SM185/33-2","85","1.9W","33V","Surface Mount","6m","Compliant","Compliant","3.6A","MK"
