@@ -1,7 +1,7 @@
 "Part Number","Library Ref","Max Collector Current","Max Power Dissipation","Case/Package","Description","Manufacturer","Manufacturer Part Number","Polarity","Mount","Footprint Ref","Collector Emitter Voltage","Height","HelpURL","Max Operating Temperature","Status","RoHS"
 "2N5550","2N5550","0A","625mW","TO-92-3",,,"2N5550","NPN","Through Hole","TO92_TO226_L_T","140V","0mm",,"150°C",,
 "BC847CLT1G","BC847CLT1G","100mA","0W","SOT23","NPN Transistor","ON Semiconductor","BC847CLT1G","NPN","Surface Mount","SOT23_TO236_SC59","45V","1mm","http://datasheet.octopart.com/BC847CLT1G-ON-Semiconductor-datasheet-8324740.pdf","0°C","MK",
-"BC848BWT1G","BC848BW","100mA","150mW","SOT323","NPN Silicon General Purpose Transistor","ON Semiconductor","BC848BWT1G","NPN","Surface Mount","SOT323_SC70","30V","900µm","http://www.tme.eu/pl/Document/6f749a16562a2a0770a5550dd3f478bf/bc846w.pdf","150°C",,
+"BC848BWT1G","BC848BWT1G","100mA","150mW","SOT323","NPN Silicon General Purpose Transistor","ON Semiconductor","BC848BWT1G","NPN","Surface Mount","SOT323_SC70","30V","900µm","http://www.tme.eu/pl/Document/6f749a16562a2a0770a5550dd3f478bf/bc846w.pdf","150°C",,
 "BD911","BD911","15A","90W","TO-220-3",,"STMicroelectronics","BD911","NPN","Through Hole","TO220HW","100V","9.15mm","https://www.tme.eu/Document/06194eedda074f79750e2c6e02713aba/BD911.pdf","150°C",,
 "BFS17A","BFS17A","50mA","0W","SOT23",,"NXP","BFS17A","NPN","Surface Mount","SOT23_TO236_SC59","25V","0mm","http://www.mouser.com/ds/2/302/BFS17A-36627.pdf","0°C",,
 "FJB5555TM","FJB5555TM","5A","100W","D2PAK","NPN Transistor","ON Semiconductor","FJB5555TM","NPN","Surface Mount","D2PAK_TO263","400V",,"https://datasheet.octopart.com/FJB5555TM-ON-Semiconductor-datasheet-85512363.pdf",,"MK",

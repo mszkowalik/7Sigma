@@ -1,6 +1,6 @@
 "Part Number","Library Ref","Resistance","Tolerance","Current Rating","Voltage Rating (DC)","Case Code (Imperial)","Power Rating","Mount","Manufacturer","Manufacturer Part Number","Description","Footprint Ref","Height","HelpURL","RoHS","Max Operating Temperature","Stats"
-"R_0R_0402_1","R","0","1%",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-070RL",,"R_0402_1005","0mm","http://datasheet.octopart.com/2176049-1-TE-Connectivity---AMP-datasheet-11120217.pdf","Compliant","155","MK"
-"R_0R_0603_1","R","0","1%",,,"0603","63mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
+"R_0R_0402_1","R","0","1%",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-070RL","Thick Film Resistor","R_0402_1005","0mm","http://datasheet.octopart.com/2176049-1-TE-Connectivity---AMP-datasheet-11120217.pdf","Compliant","155","MK"
+"R_0R_0603_1","R","0","1%","1A","50V","0603","100mW","Surface Mount","Yageo","RC0603FR-070RL","Thick Film Resistor","R_0603_1608","0.45mm","http://datasheet.octopart.com/RC0603FR-070RL-Yageo-datasheet-8328172.pdf","Compliant","155","MK"
 "R_0R_0805_5","R","0","5%","2A","150V","0805","125mW","Surface Mount","Yageo","RC0805JR-070RL","Thick Film Resistor","R_0805_2012","0.6mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","155°C","MK"
 "R_0R_1210_5","R","0","5%",,"200V","1210","500mW","Surface Mount","Panasonic","ERJ-14Y0R00U","Thick Film Resistor","R_1210_3225","500µm","http://datasheet.octopart.com/ERJ-14Y0R00U-Panasonic-datasheet-5314550.pdf","Compliant","155°C","MK"
 "R_0R0_2512_1","R","0","1%",,,"2512","250mW","Surface Mount",,,,"R_2512_6432","0mm",,,"0°C",
@@ -46,7 +46,7 @@
 "R_100R_1206_1","R","100","1%",,"200V","1206","100mW","Surface Mount",,,,"R_1206_3216","0mm",,,"0°C",
 "R_100R_1206_1","R","100","1%",,"500V","1206","100mW","Surface Mount",,,,"R_1206_3216","0mm",,,"0°C",
 "R_100R_1210_1","R","100","1%",,,"1210","100mW","Surface Mount",,,,"R_1210_3225","0mm",,,"0°C",
-"R_105K_0402_1","R","105k","1%",,,"0402","25mW","Surface Mount","Yageo","RC0402FR-07105KL",,"R_0402_1005","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,"0°C",
+"R_105K_0402_1","R","105k","1%",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-07105KL","Thick Film Resistor","R_0402_1005","0.4mm","http://datasheet.octopart.com/RC0402FR-07105KL-Yageo-datasheet-12531192.pdf","Compliant","155","MK"
 "R_10K_0402_0.1","R","10k","0.1%",,"50V","0402","63mW","Surface Mount","Yageo","RT0402BRD0710KL","Thin Film Resistor","R_0402_1005","0.3mm","http://datasheet.octopart.com/RT0402BRD0710KL-Yageo-datasheet-10915759.pdf","Compliant","125","MK"
 "R_10K_0402_1","R","10k","1%",,"50V","0402","100mW","Surface Mount","Panasonic","ERJ-2RKF1002X","Thick Film Resistor","R_0402_1005","350µm","http://datasheet.octopart.com/ERJ-2RKF1002X-Panasonic-datasheet-13266541.pdf","Compliant","155","MK"
 "R_10K_0603_1","R","10k","1%",,,"0603","250mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
@@ -130,7 +130,7 @@ RC0402FR-07113KL",,"R_0805_2012","0mm",,,"0°C",
 "R_20K_0603_1","R","20k","1%",,,"0603","100mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
 "R_20K_0805_1","R","20k","1%",,,"0805","100mW","Surface Mount",,,,"R_0805_2012","0mm",,,"0°C",
 "R_20R_0603_1","R","20","1%",,,"0603","100mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
-"R_220K_0402_1","R","220k","1%",,,"0402","63mW","Surface Mount","Yageo","RC0402FR-07220KL",,"R_0402_1005","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,"0°C",
+"R_220K_0402_1","R","220k","1%",,,"0402","63mW","Surface Mount","Yageo","RC0402FR-07220KL","Thick Film Resistor","R_0402_1005","0mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf",,"0°C",
 "R_220K_0603_1","R","220k","1%",,,"0603","250mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
 "R_220K_1206_1","R","220k","1%",,,"1206","250mW","Surface Mount",,,,"R_1206_3216","0mm",,,"0°C",
 "R_220R_0402_1","R","220","1%",,"50V","0402","100mW","Surface Mount","Yageo","RC0402FR-07220RL","Thick Film Resistor","R_0402_1005","0.35mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","155","MK"
