@@ -168,6 +168,7 @@ Yageo",,,"R_0402_1005","0mm",,,"0°C",
 "R_2K7_0805_1","R","2.7k","1%",,,"0805","125mW","Surface Mount",,,,"R_0805_2012","0mm",,,"0°C",
 "R_2K94_0603_1","R","2.94k","1%",,,"0603","100mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
 "R_2K94_0805_1","R","2.9k","1%",,,"0805","125mW","Surface Mount",,,,"R_0805_2012","0mm",,,"0°C",
+"R_2M49_0402_1","R","2.49M","1%",,"50V","0402","63mW","Surface Mount","Yageo","RC0402FR-072M49L","Thick Film Resistor","R_0402_1005","0.4mm","http://datasheet.octopart.com/RC0402FR-072M49L-Yageo-datasheet-10408619.pdf","Compliant","155","MK"
 "R_2R_0603_5","R","2","5%",,"50V","0603","63mW","Surface Mount",,,,"R_0603_1608","0mm",,,"0°C",
 "R_2R_0805_1","R","2","1%",,"150V","0805","125mW","Surface Mount",,,,"R_0805_2012","0mm",,,"0°C",
 "R_2R2_0402_1","R","2.2","1%",,"50V","0402","125mW","Surface Mount","Yageo","RC0402FR-072R2L","Thick Film Resistor","R_0402_1005","0.35mm","https://pl.mouser.com/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1527934.pdf","Compliant","155","MK"
