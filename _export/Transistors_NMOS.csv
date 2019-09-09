@@ -5,7 +5,7 @@
 "BSH103,215","BSH103,215","85mA","30","0W","SOT23","NMOS Transistor","Nexperia","BSH103,215",,"0",,"SOT23_TO236_SC59","0mm","http://datasheet.octopart.com/BSH103.215-Philips-datasheet-125753.pdf","0°C",,"NMOS",,,,,
 "BUK7M42-60E",,,,,,,,,,,,,,,,,,,,,,
 "CSD18514Q5A","CSD18514Q5A","0A",,"0W",,"NMOS Transistor",,"CSD18514Q5A",,"0",,"SON127P570X100_HS-9N","0mm",,"0°C",,"NMOS",,,,,
-"CSD18543Q3A","CSD18543Q3A","35A","60","2.8W","SON 3.3-mm × 3.3-mm","NMOS Transistor 60V 8.1mR","Texas Instruments","CSD18543Q3A",,"8.1","surface mount","PQFN65P330X332X105_HS-9N","o.9","http://www.ti.com/lit/ds/symlink/csd18543q3a.pdf","150°C",,"NMOS","Compliant","2.7",,,
+"CSD18543Q3A","CSD18543Q3A","35A","60","2.8W","SON 3.3-mm × 3.3-mm","NMOS Transistor 60V 8.1mR","Texas Instruments","CSD18543Q3A",,"8.1","surface mount","PQFN65P330X332X105_HS-9N","o.9","http://www.ti.com/lit/ds/symlink/csd18543q3a.pdf","150°C",,"NMOS","Compliant","2.7","Mouser","595-CSD18543Q3A",
 "DMN3404L-7","DMN3404L-7","5.8A","30","1.4W","SOT-23","NMOS Transistor","Diodes","DMN3404L-7",,"82m","Surface Mount","SOT23_TO236_SC59","1mm","http://datasheet.octopart.com/DMN3404L-7-Diodes-Inc.-datasheet-11721901.pdf","150°C",,"NMOS",,"1.5",,,
 "GS66508T","GS66508T","11A","650","0W","GaNPX-4","GAN TRANS E-MODE 650V 60A TOP SIDE COOL","GaN Systems","GS66508T",,"0",,"GS66508T_650V_30A","0mm","https://gansystems.com/wp-content/uploads/2018/04/GS66516T-DS-Rev-180422.pdf","0°C",,"GaN-MOS",,,,,
 "GS66516T","GS66516T","60A","650","0W","GaNPX-4","GAN TRANS E-MODE 650V 60A TOP SIDE COOL","GaN Systems","GS66516T",,"0",,"GS66516T_650V_60A","0mm","https://gansystems.com/wp-content/uploads/2018/04/GS66516T-DS-Rev-180422.pdf","0°C",,"GaN-MOS",,,,,

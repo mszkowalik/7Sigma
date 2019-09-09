@@ -6,7 +6,7 @@
 "DS_SOT23","DS_SOT23","D_SOT23_TO236_SC59","Schottky Diode",,"0A","Surface Mount","0V","0mm",,"0°C",,,,,,,
 "MBRS140T3G","DS","DO-214AA","Schottky Diode","SMB","1A","Surface Mount","40V","2.13mm","http://datasheet.octopart.com/MBRS140T3G-ON-Semiconductor-datasheet-7832114.pdf","125","Compliant","ON Semiconductor","MBRS140T3G","MK",,,
 "MBRS340T-3G","DS","DO-214AB","Schottky Diode",,"3A","Surface Mount","40V","0mm","https://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF","0°C",,,,,,,
-"MBRS540T3G","DS","DO-214AB","Schottky Diode","SMC","5A","Surface Mount","40V","2.4mm","http://datasheet.octopart.com/MBRS540T3G-ON-Semiconductor-datasheet-5320225.pdf","150°C",,"ON Semiconductor","MBRS540T3G",,,,
+"MBRS540T3G","DS","DO-214AB","Schottky Diode","SMC","5A","Surface Mount","40V","2.4mm","http://datasheet.octopart.com/MBRS540T3G-ON-Semiconductor-datasheet-5320225.pdf","150°C","Compliant","ON Semiconductor","MBRS540T3G","MK","Mouser","863-MBRS540T3G",
 "PMEG4010CEJ,115","DS","SOD323F","Schottky Diode","SOD-323F","1A","Surface Mount","40V","0.8mm","https://datasheet.octopart.com/PMEG4010CEJ%2C115-Nexperia-datasheet-87582011.pdf","150°C","Compliant","Nexperia","PMEG4010CEJ,115",,,,
 "PMEG6010CEJ,115","DS","SOD323F","Schottky Diode","SOD-323F","1A","Surface Mount","40V","0.8mm","https://datasheet.octopart.com/PMEG4010CEJ%2C115-Nexperia-datasheet-87582011.pdf","150°C","Compliant",,,,,,
 "SS14","DS","DO-214AC","Schottky Diode",,"1A","Surface Mount","40V","0mm","http://datasheet.octopart.com/SS14-Fairchild-datasheet-3545.pdf","0°C",,,,,,,
