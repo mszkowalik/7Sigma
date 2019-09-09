@@ -1,19 +1,19 @@
-"Part Number","Library Ref","Footprint Ref","Description","Voltage Rating (DC)","Case/Package","Max Power Dissipation","Mount","Forward Current","Manufacturer","Manufacturer Part Number","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Number of Pins","REACH SVHC","RoHS","Width"
-"BAR6303WE6327HTSA1","D","SOD323","Diode","0V","SOD323",,"Surface Mount","100mA","Infineon","BAR6303WE6327HTSA1","0mm","https://www.infineon.com/dgdl/Infineon-BAR63SERIES_DS-DS-v01_01-EN.pdf?fileId=5546d4625e763904015ec363284f64d0",,"0mm","0°C","0°C","2",,,"0mm"
-"BAS21J,115","D","SOD323F",,"0V","SOD323F",,"Surface Mount","250mA","Nexperia","BAS21J,115","0mm","http://www.farnell.com/datasheets/1383268.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"BAT54XV2","D","SOD523_SC79_EMD2","Schottky Barrier Diode","30V",,"200mW","Surface Mount","200mA","ON Semiconductor","BAT54XV2","700µm","https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF","Lead Free","1.3mm","125°C","-65°C","2","No SVHC","Compliant","900µm"
-"BYG20J-E3/TR3","D","DO-214AC",,"0V","SMA",,"Surface Mount","1.5A","Vishay","BYG20J-E3/TR3","0mm","http://www.mouser.com/ds/2/427/byg20d-240460.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"D_SOD123_GENERAL","D","SOD123",,"0V","SOD123",,"Surface Mount","0A",,,"0mm",,,"0mm","0°C","0°C","2",,,"0mm"
-"MB1S","MB1S","SOP254P700X300-4N"," Bridge Rectifier","70V","SOIC4","1.4","Surface Mount","0.5A","ON Semiconductor","MB1S","3mm","https://datasheet.octopart.com/MB1S-ON-Semiconductor-datasheet-98150802.pdf",,"4.5mm","150","-55","4",,"Compliant","4.5mm"
-"RS1BL","D","SUB-SMA",,"0V","SUB-SMA",,"Surface Mount","1A","Taiwan Semiconductor","RS1BL","0mm","http://www.mouser.com/ds/2/395/RS1AL%20SERIES_K14-523620.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"S1A-13-F","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Diodes","S1A-13-F","0mm","http://datasheet.octopart.com/S1A-13-F-Diodes-Inc.-datasheet-551856.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"S1AB-13-F","D","DO-214AA",,"0V","SMB",,"Surface Mount","1A","Diodes","S1AB-13-F","0mm","http://datasheet.octopart.com/S1AB-13-F-Diodes-Inc.-datasheet-41192564.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"S1BB-13-F","D","DO-214AA",,"0V","SMB",,"Surface Mount","1A","Diodes","S1BB-13-F","0mm","http://datasheet.octopart.com/S1BB-13-F-Diodes-Inc.-datasheet-8324925.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"S1B-E3/5AT","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Vishay","S1B-E3/5AT","0mm","https://www.verical.com/datasheet/vishay-rectifier-s1be3-61t-768273.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"S1G-E3/61T","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Vishay","S1G-E3/61T","0mm","https://www.verical.com/datasheet/vishay-rectifier-s1be3-61t-768273.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"S1M-13-F","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Diodes Inc.","S1M-13-F","0mm","http://datasheet.octopart.com/S1M-13-F-Diodes-Inc.-datasheet-41192564.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"STTH2R02A","D","DO-214AC",,"0V","SMA",,"Surface Mount","2A","STMicroelectronics","STTH2R02A","0mm","http://www.farnell.com/datasheets/1690253.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"US1A-TP","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Micro Commercial Co","US1A-TP","0mm","http://datasheet.octopart.com/US1A-TP-Micro-Commercial-datasheet-13551293.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"US1ME3/61T","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Vishay","US1ME3/61T","0mm","http://datasheet.octopart.com/US1M-E3-61T-Vishay-datasheet-14407600.pdf",,"0mm","0°C","0°C","2",,,"0mm"
-"US1M-E3/61T","D","DO-214AC","Ultrafast Rectifier","1kV","SMA",,"Surface Mount","1A","Vishay","US1M-E3/61T","2.29mm","https://datasheet.octopart.com/US1M-E3-61T-Vishay-datasheet-14407600.pdf","Lead Free","5.28mm","150","-55","2",,"Compliant","2.79mm"
-"VBT4045BP-E3/8W","D","D_D2PAK_TO263",,"0V","TO-263AB",,"Surface Mount","40A","Vishay","VBT4045BP-E3/8W","0mm","http://www.farnell.com/datasheets/2050265.pdf",,"0mm","0°C","0°C","2",,,"0mm"
+"Part Number","Library Ref","Footprint Ref","Description","Voltage Rating (DC)","Case/Package","Max Power Dissipation","Mount","Forward Current","Manufacturer","Manufacturer Part Number","Height","HelpURL","Lead Free","Max Operating Temperature","Number of Pins","RoHS","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
+"BAR6303WE6327HTSA1","D","SOD323","Diode","0V","SOD323",,"Surface Mount","100mA","Infineon","BAR6303WE6327HTSA1","0mm","https://www.infineon.com/dgdl/Infineon-BAR63SERIES_DS-DS-v01_01-EN.pdf?fileId=5546d4625e763904015ec363284f64d0",,"0°C","2",,,,,
+"BAS21J,115","D","SOD323F",,"0V","SOD323F",,"Surface Mount","250mA","Nexperia","BAS21J,115","0mm","http://www.farnell.com/datasheets/1383268.pdf",,"0°C","2",,,,,
+"BAT54XV2","D","SOD523_SC79_EMD2","Schottky Barrier Diode","30V",,"200mW","Surface Mount","200mA","ON Semiconductor","BAT54XV2","700µm","https://www.onsemi.com/pub/Collateral/BAT54XV2T1-D.PDF","Lead Free","125°C","2","Compliant",,,,
+"BYG20J-E3/TR3","D","DO-214AC",,"0V","SMA",,"Surface Mount","1.5A","Vishay","BYG20J-E3/TR3","0mm","http://www.mouser.com/ds/2/427/byg20d-240460.pdf",,"0°C","2",,,,,
+"D_SOD123_GENERAL","D","SOD123",,"0V","SOD123",,"Surface Mount","0A",,,"0mm",,,"0°C","2",,,,,
+"MB1S","MB1S","SOP254P700X300-4N"," Bridge Rectifier","70V","SOIC4","1.4","Surface Mount","0.5A","ON Semiconductor","MB1S","3mm","https://datasheet.octopart.com/MB1S-ON-Semiconductor-datasheet-98150802.pdf",,"150","4","Compliant",,,,
+"RS1BL","D","SUB-SMA",,"0V","SUB-SMA",,"Surface Mount","1A","Taiwan Semiconductor","RS1BL","0mm","http://www.mouser.com/ds/2/395/RS1AL%20SERIES_K14-523620.pdf",,"0°C","2",,,,,
+"S1A-13-F","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Diodes","S1A-13-F","0mm","http://datasheet.octopart.com/S1A-13-F-Diodes-Inc.-datasheet-551856.pdf",,"0°C","2",,,,,
+"S1AB-13-F","D","DO-214AA",,"0V","SMB",,"Surface Mount","1A","Diodes","S1AB-13-F","0mm","http://datasheet.octopart.com/S1AB-13-F-Diodes-Inc.-datasheet-41192564.pdf",,"0°C","2",,,,,
+"S1BB-13-F","D","DO-214AA",,"0V","SMB",,"Surface Mount","1A","Diodes","S1BB-13-F","0mm","http://datasheet.octopart.com/S1BB-13-F-Diodes-Inc.-datasheet-8324925.pdf",,"0°C","2",,,,,
+"S1B-E3/5AT","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Vishay","S1B-E3/5AT","0mm","https://www.verical.com/datasheet/vishay-rectifier-s1be3-61t-768273.pdf",,"0°C","2",,,,,
+"S1G-E3/61T","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Vishay","S1G-E3/61T","0mm","https://www.verical.com/datasheet/vishay-rectifier-s1be3-61t-768273.pdf",,"0°C","2",,,,,
+"S1M-13-F","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Diodes Inc.","S1M-13-F","0mm","http://datasheet.octopart.com/S1M-13-F-Diodes-Inc.-datasheet-41192564.pdf",,"0°C","2",,,,,
+"STTH2R02A","D","DO-214AC",,"0V","SMA",,"Surface Mount","2A","STMicroelectronics","STTH2R02A","0mm","http://www.farnell.com/datasheets/1690253.pdf",,"0°C","2",,,,,
+"US1A-TP","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Micro Commercial Co","US1A-TP","0mm","http://datasheet.octopart.com/US1A-TP-Micro-Commercial-datasheet-13551293.pdf",,"0°C","2",,,,,
+"US1ME3/61T","D","DO-214AC",,"0V","SMA",,"Surface Mount","1A","Vishay","US1ME3/61T","0mm","http://datasheet.octopart.com/US1M-E3-61T-Vishay-datasheet-14407600.pdf",,"0°C","2",,,,,
+"US1M-E3/61T","D","DO-214AC","Ultrafast Rectifier","1kV","SMA",,"Surface Mount","1A","Vishay","US1M-E3/61T","2.29mm","https://datasheet.octopart.com/US1M-E3-61T-Vishay-datasheet-14407600.pdf","Lead Free","150","2","Compliant",,,,
+"VBT4045BP-E3/8W","D","D_D2PAK_TO263",,"0V","TO-263AB",,"Surface Mount","40A","Vishay","VBT4045BP-E3/8W","0mm","http://www.farnell.com/datasheets/2050265.pdf",,"0°C","2",,,,,

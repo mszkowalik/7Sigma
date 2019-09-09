@@ -1,10 +1,10 @@
-"Part Number","Footprint Ref","Library Ref","Color","Manufacturer Part Number","Revision ID","Description","Case/Package","Manufacturer","Mount","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Status","Number of Pins","RoHS","Width"
-"APG1608CGKC/T","OL_0603_1608","OL_G","Green","APG1608CGKC/T","CMP-011-0010-6","LED GREEN","0603","Kingbright","Surface Mount","0.25mm","http://datasheet.octopart.com/APG1608CGKC/T-Kingbright-datasheet-8862396.pdf","Lead Free","1.6mm","85","-40","MK","2","Compliant","0.8mm"
-"LTST-C171GKT","OL_0805_2012","OL_G","Green","LTST-C171GKT","CMP-011-0013-4","LED GREEN","0805","Lite-On","Surface Mount","0mm","http://datasheet.octopart.com/LTST-C171GKT-Lite-On-datasheet-158474.pdf",,"0mm","0°C","0°C",,"2",,"0mm"
-"LTST-T680TGKT","OL_PLCC2_3X2X13","OL_G","Green","LTST-T680TGKT","CMP-011-0018-4","LED GREEN","PLCC2","Lite-On","Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_G_32X24X24","OL_32X24X24","OL_G","Green",,"CMP-011-0014-4","LED GREEN",,,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_G_5MM","OL_5MM_T","OL_G","Green",,"CMP-011-0015-6","LED GREEN",,,"Through Hole","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_G_A676_RA",,"OL_G","Green",,"CMP-011-0016-4","LED GREEN",,,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_G_PLCC2","OL_PLCC2_3X2X13","OL_G","Green",,"CMP-011-0017-4","LED GREEN","PLCC2",,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OSG80603C1E","OL_0603_1608","OL_G","Green","OSG80603C1E","CMP-011-0012-6","LED GREEN","0603","Optosupply","Surface Mount","0.25mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"WP934EW/GD","WP934EW/GD","OL_G","WP934EW/GD","WP934EW/GD",,"LED GREEN",,"Kingbright","Through Hole","7.3mm","https://datasheet.octopart.com/WP934EW/GD-Kingbright-datasheet-8327430.pdf","Lead Free","6.35mm","-40","85","MK","2","Compliant","4.32mm"
+"Part Number","Footprint Ref","Library Ref","Color","Manufacturer Part Number","Description","Case/Package","Manufacturer","Mount","Height","HelpURL","Max Operating Temperature","Min Operating Temperature","Status","Number of Pins","RoHS","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1"
+"APG1608CGKC/T","OL_0603_1608","OL_G","Green","APG1608CGKC/T","LED GREEN","0603","Kingbright","Surface Mount","0.25mm","http://datasheet.octopart.com/APG1608CGKC/T-Kingbright-datasheet-8862396.pdf","85","-40","MK","2","Compliant",,,
+"LTST-C171GKT","OL_0805_2012","OL_G","Green","LTST-C171GKT","LED GREEN","0805","Lite-On","Surface Mount","0mm","http://datasheet.octopart.com/LTST-C171GKT-Lite-On-datasheet-158474.pdf","0°C","0°C",,"2",,,,
+"LTST-T680TGKT","OL_PLCC2_3X2X13","OL_G","Green","LTST-T680TGKT","LED GREEN","PLCC2","Lite-On","Surface Mount","0mm",,"0°C","0°C",,"2",,,,
+"OL_G_32X24X24","OL_32X24X24","OL_G","Green",,"LED GREEN",,,"Surface Mount","0mm",,"0°C","0°C",,"2",,,,
+"OL_G_5MM","OL_5MM_T","OL_G","Green",,"LED GREEN",,,"Through Hole","0mm",,"0°C","0°C",,"2",,,,
+"OL_G_A676_RA",,"OL_G","Green",,"LED GREEN",,,"Surface Mount","0mm",,"0°C","0°C",,"2",,,,
+"OL_G_PLCC2","OL_PLCC2_3X2X13","OL_G","Green",,"LED GREEN","PLCC2",,"Surface Mount","0mm",,"0°C","0°C",,"2",,,,
+"OSG80603C1E","OL_0603_1608","OL_G","Green","OSG80603C1E","LED GREEN","0603","Optosupply","Surface Mount","0.25mm",,"0°C","0°C",,"2",,,,
+"WP934EW/GD","WP934EW/GD","OL_G","WP934EW/GD","WP934EW/GD","LED GREEN",,"Kingbright","Through Hole","7.3mm","https://datasheet.octopart.com/WP934EW/GD-Kingbright-datasheet-8327430.pdf","-40","85","MK","2","Compliant",,,

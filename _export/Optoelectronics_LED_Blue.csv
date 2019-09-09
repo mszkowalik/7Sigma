@@ -1,7 +1,7 @@
-"Part Number","Library Ref","Case/Package","Color","Manufacturer Part Number","Description","Footprint Ref","Case Code (Imperial)","Manufacturer","Mount","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Status","Number of Pins","RoHS","Width"
-"APT1608PBC/A","OL_B","0603","Blue","APT1608PBC/A","LED_BLUE","OL_0603_1608","0603","Kingbright","Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"LTST-C171TBKT","OL_B","0805","Blue","LTST-C171TBKT","LED_BLUE","OL_0805_2012","0805","Lite-On","Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"LTST-T680TBKT","OL_B","PLCC2","Blue","LTST-T680TBKT","LED_BLUE","OL_PLCC2_3X2X13","PLCC2","Lite-On","Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_B_0603","OL_B","0603","Blue",,"LED_BLUE","OL_0603_1608","0603",,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_B_0805","OL_B","0805","Blue",,"LED_BLUE","OL_0805_2012","0805",,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
-"OL_B_PLCC2","OL_B","PLCC2","Blue",,"LED_BLUE","OL_PLCC2_3X2X13","PLCC2",,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"2",,"0mm"
+"Part Number","Library Ref","Case/Package","Color","Manufacturer Part Number","Description","Footprint Ref","Case Code (Imperial)","Manufacturer","Mount","Height","HelpURL","Max Operating Temperature","Status","Number of Pins","RoHS","Marking","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1"
+"APT1608PBC/A","OL_B","0603","Blue","APT1608PBC/A","LED_BLUE","OL_0603_1608","0603","Kingbright","Surface Mount","0mm",,"0°C",,"2",,,,,
+"LTST-C171TBKT","OL_B","0805","Blue","LTST-C171TBKT","LED_BLUE","OL_0805_2012","0805","Lite-On","Surface Mount","0mm",,"0°C",,"2",,,,,
+"LTST-T680TBKT","OL_B","PLCC2","Blue","LTST-T680TBKT","LED_BLUE","OL_PLCC2_3X2X13","PLCC2","Lite-On","Surface Mount","0mm",,"0°C",,"2",,,,,
+"OL_B_0603","OL_B","0603","Blue",,"LED_BLUE","OL_0603_1608","0603",,"Surface Mount","0mm",,"0°C",,"2",,,,,
+"OL_B_0805","OL_B","0805","Blue",,"LED_BLUE","OL_0805_2012","0805",,"Surface Mount","0mm",,"0°C",,"2",,,,,
+"OL_B_PLCC2","OL_B","PLCC2","Blue",,"LED_BLUE","OL_PLCC2_3X2X13","PLCC2",,"Surface Mount","0mm",,"0°C",,"2",,,,,

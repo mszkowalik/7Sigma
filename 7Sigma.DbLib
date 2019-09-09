@@ -19,7 +19,7 @@ LibrarySearchPath=PCB;SCH;SIM
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=IC_Battery Management
+LastFocusedTable=Antennas
 [Table1]
 SchemaName=
 TableName=Antennas
@@ -86,6 +86,9 @@ TableName=Connectors_Audio
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=89|Library Ref0=89|Description0=487|Footprint Ref0=92|Case/Package0=93|Manufacturer0=93|Manufacturer Part Number0=160|Connector Type0=104|Current Rating0=99|Gender0=61|HelpURL0=413|Max Operating Temperature0=168|Mount0=84|Number of Pins0=102|Orientation0=83|RoHS0=61
 [Table12]
 SchemaName=
 TableName=Connectors_Battery Holders
@@ -152,6 +155,9 @@ TableName=Connectors_Power
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=80|Footprint Ref0=92|Description0=389|Contact Gender0=104|Pitch0=48|Series0=59|Mount0=115|Height0=58|HelpURL0=557|Max Operating Temperature0=168|Number of Rows0=109|Number of Pins0=102|RoHS0=61|Manufacturer0=99|Manufacturer Part Number0=160|Status0=55|Price0=47|Supplier 10=75|Supplier Part Number 10=142|Supplier Unit Price 10=127
 [Table23]
 SchemaName=
 TableName=Connectors_RF
@@ -236,9 +242,6 @@ TableName=IC_Battery Management
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=137|Library Ref0=112|Footprint Ref0=157|Description0=717|Manufacturer Part Number0=160|Manufacturer0=104|Case/Package0=93|Mount0=84|Height0=58|HelpURL0=584|Marking0=66|Max Charge Current0=126|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Supply Voltage0=124|RoHS0=61|Status0=55|Supplier 10=75|Supplier Part Number 10=142
 [Table37]
 SchemaName=
 TableName=IC_Comparators

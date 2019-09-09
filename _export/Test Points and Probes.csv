@@ -1,10 +1,10 @@
-"Part Number","Library Ref","Case/Package","Description","Mount","Footprint Ref","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Number of Pins","Number of Ports","REACH SVHC","RoHS","Termination"
-"5015","5015",,"Test Point; Micro Mini; SMT; Phos Bronze/Silver","Surface Mount","5015","0.06inch",,"Lead Free","2.66mm",,,,"1","No SVHC",,"Solder"
-"5016","5016",,"Test Point; Micro Mini; SMT; Phos Bronze/Silver","Surface Mount","5016","0.09inch",,"Lead Free","3.81mm",,,,"1","No SVHC",,"Solder"
-"7937-0-00-15-00-00-03-0","7937-0-00-15-00-00-03-0","SMD/SMT","Target Pin for Spring Loaded Pogo Pin","Surface Mount","7937-0-00-15-00-00-03-0",,"https://datasheet.octopart.com/7937-0-00-15-00-00-03-0-Mill-Max-datasheet-11771566.pdf","Lead Free","0.206inch","885°C","-100°C","1",,,"Compliant","PC Pin"
-"S25-022","S25-022",,"HARWIN         S25-022             Contact, Connector, Recaptacle, Solder, 2.54 mm, 16 AWG, Spring Probe, 3 A",,"S25-022",,,,"23.7mm",,,,,"No SVHC",,
-"TP_1PIN","TP_1PIN","THT","Testpoint",,"TP_1PIN",,,,"0mm",,,,,,,
-"TP_2PIN","TP_2PIN","THT","Testpoint",,"TP_2PIN",,,,"0mm",,,,,,,
-"TP_PAD_1.3MM","TESTPOINT","SMD","Testpoint SMD 1.3MM",,"TP_PAD_1.3MM",,,,"0mm",,,,,,,
-"TP_PAD_1.5","TESTPOINT","SMD","Testpoint SMD 1.5mm",,"TP_PAD_1.5",,,,"0mm",,,,,,,
-"TP_PAD_2","TESTPOINT","SMD","Testpoint",,"TP_PAD_2",,,,"0mm",,,,,,,
+"Part Number","Library Ref","Case/Package","Description","Mount","Footprint Ref","Height","HelpURL","Max Operating Temperature","Number of Pins","RoHS","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
+"5015","5015",,"Test Point; Micro Mini; SMT; Phos Bronze/Silver","Surface Mount","5015","0.06inch",,,,,,,,
+"5016","5016",,"Test Point; Micro Mini; SMT; Phos Bronze/Silver","Surface Mount","5016","0.09inch",,,,,,,,
+"7937-0-00-15-00-00-03-0","7937-0-00-15-00-00-03-0","SMD/SMT","Target Pin for Spring Loaded Pogo Pin","Surface Mount","7937-0-00-15-00-00-03-0",,"https://datasheet.octopart.com/7937-0-00-15-00-00-03-0-Mill-Max-datasheet-11771566.pdf","885°C","1","Compliant",,,,
+"S25-022","S25-022",,"HARWIN         S25-022             Contact, Connector, Recaptacle, Solder, 2.54 mm, 16 AWG, Spring Probe, 3 A",,"S25-022",,,,,,,,,
+"TP_1PIN","TP_1PIN","THT","Testpoint",,"TP_1PIN",,,,,,,,,
+"TP_2PIN","TP_2PIN","THT","Testpoint",,"TP_2PIN",,,,,,,,,
+"TP_PAD_1.3MM","TESTPOINT","SMD","Testpoint SMD 1.3MM",,"TP_PAD_1.3MM",,,,,,,,,
+"TP_PAD_1.5","TESTPOINT","SMD","Testpoint SMD 1.5mm",,"TP_PAD_1.5",,,,,,,,,
+"TP_PAD_2","TESTPOINT","SMD","Testpoint",,"TP_PAD_2",,,,,,,,,

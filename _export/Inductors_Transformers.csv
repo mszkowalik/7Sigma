@@ -1,20 +1,20 @@
-"Part Number","Library Ref","Footprint Ref","Inductance","Manufacturer Part Number","Description","Manufacturer","Voltage","Current","HelpURL","Resistance","RoHS","Status"
-"DA2034-ALB","DA203X-ALX","DA2034-AL","10u:100u","DA2034-ALB","Flyback Transformer for LT3750","Coilcraft","1500V","10A","https://datasheet.octopart.com/DA2034-ALB-Coilcraft-datasheet-10791385.pdf","18m","Compliant","MK"
-"LM_744229_0A4_6500UH","LM_744229","LM_WE-SL2","6500UH","744229","WE-SL2 SMD Common Mode Line Filter, 6500 uH","Wurth Electronics",,"0A4","http://katalog.we-online.de/pbs/datasheet/744229.pdf","950m",,
-"LM_850UH_35A_SCR38-350-1R8B008J","LM_SCR38_350","LM_SCR38-350","850UH","SCR38-350-1R8B008J",,"KEMET",,"35A","http://www.kemet.com/Lists/ProductCatalog/Attachments/451/KEM_LF0003_SCR38.pdf",,,
-"LM_DLW21HN900SQ2L","LM_DLW21HN900SQ2L","DLW21HN900SQ2L","DLW21HN900SQ2L","DLW21HN900SQ2L","RF transformer","Murata",,"0A33","https://datasheet.octopart.com/DLW21HN900SQ2L-Murata-datasheet-21851.pdf","350m",,
-"LM_DLW5BSM801TQ2L","LM_DLW5BSM801TQ2L","DLW5BSM801TQ2L","DLW5BSM801TQ2L","DLW5BSM801TQ2L","RF transformer","Murata",,"2A","http://datasheet.octopart.com/DLW5BSM801TQ2L-Murata-datasheet-37129980.pdf","56m",,
-"LM_E16_8_5_CORE_N87_1","LM_E16_8_5_N87_1",,"E16/8/5 N87","B66307G0000X187",,"TDK",,,"http://www.mouser.com/ds/2/400/e_16_8_5-964029.pdf",,,
-"LM_E16_8PIN_CUSTOM1","LM_E16_8PIN_CUSTOM1","LM_E16_8_5_8PIN","B66308B1108T001","B66308B1108T001",,"TDK",,,"http://www.mouser.com/ds/2/400/e_16_8_5-525664.pdf",,,
-"LM_E20_10_6_CORE_N87_2","LM_E20_10_6_N87_2",,"E20/10/6 N87","B66311GX187",,"Epcos",,,"http://www.mouser.com/ds/2/400/e_20_10_6-525716.pdf",,,
-"LM_E20_10PIN_CUSTOM2","LM_E20_10PIN_CUSTOM2","LM_E20_10_6_10PIN","B66206B1110T001","B66206B1110T001",,"TDK",,,"http://www.mouser.com/ds/2/400/e_20_10_6-525716.pdf",,,
-"LM_ETD29_14PIN_CUSTOM3","LM_ETD29_14PIN_CUSTOM3","LM_ETD29_16_10_14PIN","B66359X1014T001","B66359X1014T001",,"Epcos",,,"http://www.farnell.com/datasheets/2133269.pdf",,,
-"LM_ETD29_16_10_CORE_N97_3","LM_ETD29_16_10_N97_3",,"ETD29/16/10 N97","B66358G0000X197",,"Epcos",,,"http://www.farnell.com/datasheets/1872306.pdf",,,
-"LM_RM14/I_CORE_3C95_4","LM_RM14I_CORE_3C95_4",,"RM14/I-3C95","RM14/I-3C95",,"Ferroxcube",,,"http://datasheet.octopart.com/RM14/I-3C95-Ferroxcube-datasheet-10330186.pdf",,,
-"LM_RM14_12PIN_CUSTOM4","LM_RM14_12PIN_CUSTOM4","LM_B65888N1012D001_RM14_12PIN","B65888N1012D001","B65888N1012D001",,"Epcos",,,"http://datasheet.octopart.com/B65888N1012D001-EPCOS-datasheet-37497082.pdf",,,
-"LM_RM14_12PIN_CUSTOM5","LM_RM14_12PIN_CUSTOM5","LM_B65888C1512T001_RM14_12PIN","B65888C1512T001","B65888C1512T001",,"Epcos",,,"http://datasheet.octopart.com/B65888C1512T001-EPCOS-datasheet-11742041.pdf",,,
-"LM_RN112-0.8-02-10M","LM_RNxxx","RN112","RN112-0.8-02-10M","RN112-0.8-02-10M",,"Schaffner","300VAC","0A8","https://datasheet.octopart.com/RN112-0.8-02-10M-Schaffner-datasheet-68538656.pdf","380m",,
-"LM_TC1-1T+","LM_TC1-1T+","AT224-1A","TC1-1T+","TC1-1T+","RF transformer","Minicircuits",,"0A03","https://ww2.minicircuits.com/pdfs/TC1-1T+.pdf","1",,
+"Part Number","Library Ref","Footprint Ref","Inductance","Manufacturer Part Number","Description","Manufacturer","Max Operating Voltage","Max Operating Current","HelpURL","Resistance","RoHS","Status","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1"
+"DA2034-ALB","DA203X-ALX","DA2034-AL","10u:100u","DA2034-ALB","Flyback Transformer for LT3750","Coilcraft","1500V","10A","https://datasheet.octopart.com/DA2034-ALB-Coilcraft-datasheet-10791385.pdf","18m","Compliant","MK",,,
+"LM_744229_0A4_6500UH","LM_744229","LM_WE-SL2","6500UH","744229","WE-SL2 SMD Common Mode Line Filter, 6500 uH","Wurth Electronics",,"0A4","http://katalog.we-online.de/pbs/datasheet/744229.pdf","950m",,,,,
+"LM_850UH_35A_SCR38-350-1R8B008J","LM_SCR38_350","LM_SCR38-350","850UH","SCR38-350-1R8B008J",,"KEMET",,"35A","http://www.kemet.com/Lists/ProductCatalog/Attachments/451/KEM_LF0003_SCR38.pdf",,,,,,
+"LM_DLW21HN900SQ2L","LM_DLW21HN900SQ2L","DLW21HN900SQ2L","DLW21HN900SQ2L","DLW21HN900SQ2L","RF transformer","Murata",,"0A33","https://datasheet.octopart.com/DLW21HN900SQ2L-Murata-datasheet-21851.pdf","350m",,,,,
+"LM_DLW5BSM801TQ2L","LM_DLW5BSM801TQ2L","DLW5BSM801TQ2L","DLW5BSM801TQ2L","DLW5BSM801TQ2L","RF transformer","Murata",,"2A","http://datasheet.octopart.com/DLW5BSM801TQ2L-Murata-datasheet-37129980.pdf","56m",,,,,
+"LM_E16_8_5_CORE_N87_1","LM_E16_8_5_N87_1",,"E16/8/5 N87","B66307G0000X187",,"TDK",,,"http://www.mouser.com/ds/2/400/e_16_8_5-964029.pdf",,,,,,
+"LM_E16_8PIN_CUSTOM1","LM_E16_8PIN_CUSTOM1","LM_E16_8_5_8PIN","B66308B1108T001","B66308B1108T001",,"TDK",,,"http://www.mouser.com/ds/2/400/e_16_8_5-525664.pdf",,,,,,
+"LM_E20_10_6_CORE_N87_2","LM_E20_10_6_N87_2",,"E20/10/6 N87","B66311GX187",,"Epcos",,,"http://www.mouser.com/ds/2/400/e_20_10_6-525716.pdf",,,,,,
+"LM_E20_10PIN_CUSTOM2","LM_E20_10PIN_CUSTOM2","LM_E20_10_6_10PIN","B66206B1110T001","B66206B1110T001",,"TDK",,,"http://www.mouser.com/ds/2/400/e_20_10_6-525716.pdf",,,,,,
+"LM_ETD29_14PIN_CUSTOM3","LM_ETD29_14PIN_CUSTOM3","LM_ETD29_16_10_14PIN","B66359X1014T001","B66359X1014T001",,"Epcos",,,"http://www.farnell.com/datasheets/2133269.pdf",,,,,,
+"LM_ETD29_16_10_CORE_N97_3","LM_ETD29_16_10_N97_3",,"ETD29/16/10 N97","B66358G0000X197",,"Epcos",,,"http://www.farnell.com/datasheets/1872306.pdf",,,,,,
+"LM_RM14/I_CORE_3C95_4","LM_RM14I_CORE_3C95_4",,"RM14/I-3C95","RM14/I-3C95",,"Ferroxcube",,,"http://datasheet.octopart.com/RM14/I-3C95-Ferroxcube-datasheet-10330186.pdf",,,,,,
+"LM_RM14_12PIN_CUSTOM4","LM_RM14_12PIN_CUSTOM4","LM_B65888N1012D001_RM14_12PIN","B65888N1012D001","B65888N1012D001",,"Epcos",,,"http://datasheet.octopart.com/B65888N1012D001-EPCOS-datasheet-37497082.pdf",,,,,,
+"LM_RM14_12PIN_CUSTOM5","LM_RM14_12PIN_CUSTOM5","LM_B65888C1512T001_RM14_12PIN","B65888C1512T001","B65888C1512T001",,"Epcos",,,"http://datasheet.octopart.com/B65888C1512T001-EPCOS-datasheet-11742041.pdf",,,,,,
+"LM_RN112-0.8-02-10M","LM_RNxxx","RN112","RN112-0.8-02-10M","RN112-0.8-02-10M",,"Schaffner","300VAC","0A8","https://datasheet.octopart.com/RN112-0.8-02-10M-Schaffner-datasheet-68538656.pdf","380m",,,,,
+"LM_TC1-1T+","LM_TC1-1T+","AT224-1A","TC1-1T+","TC1-1T+","RF transformer","Minicircuits",,"0A03","https://ww2.minicircuits.com/pdfs/TC1-1T+.pdf","1",,,,,
 "PA1005.100NL","PA1005","PA1005","20u:2m","PA1005.100NL","SMT CURRENT SENSE
 
-TRANSFORMERS","Pulse","500V","20A","https://datasheet.octopart.com/PA1005.100NLT-Pulse-datasheet-8614201.pdf","0.75m","Compliant","MK"
+TRANSFORMERS","Pulse","500V","20A","https://datasheet.octopart.com/PA1005.100NLT-Pulse-datasheet-8614201.pdf","0.75m","Compliant","MK",,,

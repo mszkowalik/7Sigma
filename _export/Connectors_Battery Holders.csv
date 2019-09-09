@@ -1,3 +1,3 @@
-"Part Number","Library Ref","Footprint Ref","Case/Package","Manufacturer","Manufacturer Part Number","Description","HelpURL","Max Operating Temperature","Min Operating Temperature","Mount","RoHS","Status"
-"1042P","BATT","1042P","SMD",,,"18650 Battery Holder","http://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf","0°C","0°C","Surface Mount",,
-"53261-0271","HEADER_1x2","53261-0271","SMD",,,"Header, 2-Pin","http://datasheet.octopart.com/53261-0271-Molex-datasheet-8522546.pdf","0°C","0°C","Surface Mount",,
+"Part Number","Library Ref","Footprint Ref","Case/Package","Manufacturer","Manufacturer Part Number","Description","HelpURL","Max Operating Temperature","Min Operating Temperature","Mount","RoHS","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
+"1042P","BATT","1042P","SMD",,,"18650 Battery Holder","http://datasheet.octopart.com/1042P-Keystone-datasheet-65568923.pdf","0°C","0°C","Surface Mount",,,,,
+"53261-0271","HEADER_1x2","53261-0271","SMD",,,"Header, 2-Pin","http://datasheet.octopart.com/53261-0271-Molex-datasheet-8522546.pdf","0°C","0°C","Surface Mount",,,,,

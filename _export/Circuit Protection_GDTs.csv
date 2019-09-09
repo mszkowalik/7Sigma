@@ -1,3 +1,3 @@
-"Part Number","Library Ref","Footprint Ref","Manufacturer","Manufacturer Part Number","Description","HelpURL","Height","Mount","Max Voltage Rating","Status"
-"GDT_2027-15-ALF","GDT","GDT_2027A","Bourns","2027-15-ALF",,"http://datasheet.octopart.com/2027-15-ALF-Bourns-datasheet-10412379.pdf",,,"150V",
-"GDT_2027-15-SM-RPLF","GDT","GDT_2027SM_M","Bourns","Bourns",,"http://www.mouser.com/ds/2/54/027-xx-SM-776283.pdf",,,"150V",
+"Part Number","Library Ref","Footprint Ref","Manufacturer","Manufacturer Part Number","Description","HelpURL","Height","Mount","Max Voltage Rating","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
+"GDT_2027-15-ALF","GDT","GDT_2027A","Bourns","2027-15-ALF",,"http://datasheet.octopart.com/2027-15-ALF-Bourns-datasheet-10412379.pdf",,,"150V",,,,
+"GDT_2027-15-SM-RPLF","GDT","GDT_2027SM_M","Bourns","Bourns",,"http://www.mouser.com/ds/2/54/027-xx-SM-776283.pdf",,,"150V",,,,
