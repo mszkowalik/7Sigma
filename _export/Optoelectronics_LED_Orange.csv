@@ -1,4 +1,4 @@
-"Part Number","Library Ref","Case/Package","Color","Manufacturer Part Number","Description","Manufacturer","Mount","Height","HelpURL","Length","Max Operating Temperature","RoHS","Status","Footprint Ref","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1"
-"OL_O_0603","OL_O_0603","603","Orange",,"LED_RED",,"Surface Mount","0mm",,"0mm","0°C",,,,,,
-"OL_O_0603_0C35_AA3528SESK","OL_O_0603_0C35_AA3528SESK","603","Orange","AA3528SESK","LED_RED","Kingbright","Surface Mount","0mm",,"0mm","0°C",,,,,,
-"OSO50603C1E","OSO50603C1E","603","Orange","OSO50603C1E","LED_RED","Optosupply","Surface Mount","0mm",,"0mm","0°C",,,,,,
+"Part Number","Library Ref","Case/Package","Color","Manufacturer Part Number","Description","Manufacturer","Mount","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","RoHS","Width","Status","Footprint Ref"
+"OL_O_0603","OL_O_0603","603","Orange",,"LED_RED",,"Surface Mount","0mm",,,"0mm","0°C","0°C",,"0mm",,
+"OL_O_0603_0C35_AA3528SESK","OL_O_0603_0C35_AA3528SESK","603","Orange","AA3528SESK","LED_RED","Kingbright","Surface Mount","0mm",,,"0mm","0°C","0°C",,"0mm",,
+"OSO50603C1E","OSO50603C1E","603","Orange","OSO50603C1E","LED_RED","Optosupply","Surface Mount","0mm",,,"0mm","0°C","0°C",,"0mm",,

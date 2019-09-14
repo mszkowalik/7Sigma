@@ -1,12 +1,12 @@
-"Part Number","Library Ref","Footprint Ref","Manufacturer Part Number","Description","Manufacturer","HelpURL","Status","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1"
-"MECH_BATTERY_HOLDER_BH-331A-3A","MECH_BATTERY_HOLDER_BH-331A-3A","MECH_BATTERY_HOLDER_3XAA_3XR6_49X58mm","BH-331A-3A","Battery holder 3xAA","COMF","http://www.tme.eu/pl/Document/c4c1f446c50179e7ec3b8c2a71063bdc/AACell.pdf",,,,
-"MECH_BATTERY_HOLDER_BH-331P","MECH_BATTERY_HOLDER_BH-331P","MECH_BATTERY_HOLDER_3XAA_3XR6_49X58mm_PINS","BH-331P","Battery holder 3xAA","COMF","http://www.tme.eu/pl/Document/c4c1f446c50179e7ec3b8c2a71063bdc/AACell.pdf",,,,
-"MECH_NUT_M3","MECH_NUT_M3","MECH_NUT_M3","1874659",,"BOSSARD","http://www.tme.eu/pl/Document/6e47813bf92a3838f03430a70827d2ef/B3_BN117.pdf",,,,
-"MECH_Raspberry_Pi_3_case","MECH_Raspberry_Pi_3_case","MECH_Raspberry_Pi_3_case",,,,,,,,
-"MECH_Raspberry_Pi_3_model","MECH_Raspberry_Pi_3_model","MECH_Raspberry_PI_3_model",,,,,,,,
-"MECH_SCREW_M3X8_COUNTERSUNK_POZIDRIV","MECH_SCREW_M3X8_COUNTERSUNK_POZIDRIV","MECH_SCREW_M3X8_COUNTERSUNK_POZIDRIV","1536958",,"BOSSARD","http://www.tme.eu/gb/Document/9bc91e5d52396277977df7bd4893e258/B3x8_BN3333.pdf",,,,
-"MECH_SPACER_MALE_FEMALE_18MM_M3","MECH_SPACER_MALE_FEMALE_18MM_M3","MECH_SPACER_MALE_FEMALE_18MM_M3","TP-18",,"FIX&FASTEN","http://www.tme.eu/pl/Document/c63f116060195082d899531b8f30ddf7/TP-10.pdf",,,,
-"Mouse Bites","Mouse Bites","Mouse Bites",,,,,,,,
-"SCREW_M2","SCREW","SCREW_M2",,,,,"MK",,,
-"SCREW_M2.5","SCREW","SCREW_M2.5",,,,,"MK",,,
-"SCREW_M5","SCREW","SCREW_M5",,,,,"MK",,,
+"Part Number","Library Ref","Footprint Ref","Manufacturer Part Number","Description","Manufacturer","HelpURL","Status"
+"MECH_BATTERY_HOLDER_BH-331A-3A","MECH_BATTERY_HOLDER_BH-331A-3A","MECH_BATTERY_HOLDER_3XAA_3XR6_49X58mm","BH-331A-3A","Battery holder 3xAA","COMF","http://www.tme.eu/pl/Document/c4c1f446c50179e7ec3b8c2a71063bdc/AACell.pdf",
+"MECH_BATTERY_HOLDER_BH-331P","MECH_BATTERY_HOLDER_BH-331P","MECH_BATTERY_HOLDER_3XAA_3XR6_49X58mm_PINS","BH-331P","Battery holder 3xAA","COMF","http://www.tme.eu/pl/Document/c4c1f446c50179e7ec3b8c2a71063bdc/AACell.pdf",
+"MECH_NUT_M3","MECH_NUT_M3","MECH_NUT_M3","1874659",,"BOSSARD","http://www.tme.eu/pl/Document/6e47813bf92a3838f03430a70827d2ef/B3_BN117.pdf",
+"MECH_Raspberry_Pi_3_case","MECH_Raspberry_Pi_3_case","MECH_Raspberry_Pi_3_case",,,,,
+"MECH_Raspberry_Pi_3_model","MECH_Raspberry_Pi_3_model","MECH_Raspberry_PI_3_model",,,,,
+"MECH_SCREW_M3X8_COUNTERSUNK_POZIDRIV","MECH_SCREW_M3X8_COUNTERSUNK_POZIDRIV","MECH_SCREW_M3X8_COUNTERSUNK_POZIDRIV","1536958",,"BOSSARD","http://www.tme.eu/gb/Document/9bc91e5d52396277977df7bd4893e258/B3x8_BN3333.pdf",
+"MECH_SPACER_MALE_FEMALE_18MM_M3","MECH_SPACER_MALE_FEMALE_18MM_M3","MECH_SPACER_MALE_FEMALE_18MM_M3","TP-18",,"FIX&FASTEN","http://www.tme.eu/pl/Document/c63f116060195082d899531b8f30ddf7/TP-10.pdf",
+"Mouse Bites","Mouse Bites","Mouse Bites",,,,,
+"SCREW_M2","SCREW","SCREW_M2",,,,,"MK"
+"SCREW_M2.5","SCREW","SCREW_M2.5",,,,,"MK"
+"SCREW_M5","SCREW","SCREW_M5",,,,,"MK"

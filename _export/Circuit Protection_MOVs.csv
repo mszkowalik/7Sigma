@@ -1,11 +1,13 @@
-"Part Number","Library Ref","Footprint Ref","Capacitance","Voltage Rating (DC)","Description","Tolerance","Case/Package","Clamping Current","Clamping Voltage","Energy","Height","HelpURL","Manufacturer","Manufacturer Part Number","Max Operating Temperature","Max Surge Current","Max Varistor Voltage","Min Varistor Voltage","Mount","RoHS","Width","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
-"AVR-M1608C270MTAAB","MOV","MOV_0603_1608","30pF","17V","Varistor","0","0603","2A","52V","0.05J",,,"TDK","AVR-M1608C270MTAAB","125°C","2A","32.4V","21.6V","Surface Mount",,"800µm",,,,
-"B72214S0500K101","MOV","MOV_AXIAL_7.8_0.9","1.8nF","65V","Varistor","0.1",,"50A","135V","15J",,"https://datasheet.octopart.com/B72214S0500K101-EPCOS-datasheet-11776948.pdf","Epcos","B72214S0500K101","85°C","4.5kA","0V","0V","Radial, Through Hole",,"3.9mm",,,,
-"B72510E1250K62","MOV","MOV_1210_3225","250pF","31V","Varistor","0.1","0805","1A","67V","0.3J",,,"TDK EPCOS","B72510E1250K62","125°C","80A","42.9V","35.1V","Surface Mount",,"1.25mm",,,,
-"B72520T170K62","MOV","MOV_0805_2012","650pF","22V","Varistor","0","1206","1A","44V","0.6J","1.7mm",,,"B72520T170K62","125°C","200A","29.7V","0V","Surface Mount",,"1.6mm",,,,
-"MOV_22VDC_17VAC_1206","MOV","MOV_1206_3216",,,"Varistor",,,,,,,,,,,,,,,,,,,,
-"MOV_22VDC_17VAC_1812","MOV","MOV_1812_4532",,,"Varistor",,,,,,,,,,,,,,,,,,,,
-"MOV_22VDC_17VAC_5MM","MOV","MOV_5MM",,,"Varistor",,,,,,,,,,,,,,,,,,,,
-"MOV-10D201KTR","MOV","MOV_10DXXXK","500pF","225V","Varistor","0.1","Radial","25A","340V","30J",,"https://www.bourns.com/docs/Product-Datasheets/MOV10D.pdf","Bourns","MOV-10D201KTR","85°C","2.5kA","225V","185V","Radial, Through Hole",,"7.2mm",,,,
-"VC080514C300DP","MOV","MOV_0805_2012","900pF","14V","Varistor","0","0805","1A","32V","0.3J","1.02mm","http://datasheet.octopart.com/VC080514C300DP-AVX-datasheet-5333321.pdf","Kyocera","VC080514C300DP","125°C","120A","20.72V","16.28V","Surface Mount",,"1.25mm",,,,
-"VC2220K501R130","MOV","MOV_2220_5650","0µF","0V","Varistor","0",,"0A","0V",,,"http://datasheet.octopart.com/VC2220K501R130-KEMET-datasheet-86450646.pdf","Kemet","VC2220K501R130","0°C","0A","0V","0V",,,"0mm",,,,
+"Part Number","Library Ref","Footprint Ref","Capacitance","Voltage Rating (DC)","Description","Case Code (Imperial)","Tolerance","Case/Package","Clamping Current","Clamping Voltage","Energy","Height","HelpURL","Manufacturer","Manufacturer Part Number","Max Operating Temperature","Max Surge Current","Max Varistor Voltage","Varistor Voltage","Min Varistor Voltage","Mount","RoHS","Width"
+"AVR-M1608C270MTAAB","MOV","MOV_0603_1608","30pF","17V","Varistor","0603","0","0603","2A","52V","0.05J",,,"TDK","AVR-M1608C270MTAAB","125°C","2A","32.4V","27V","21.6V","Surface Mount",,"800µm"
+"B72214S0500K101","MOV","MOV_AXIAL_7.8_0.9","1.8nF","65V","Varistor",,"0.1",,"50A","135V","15J",,"https://datasheet.octopart.com/B72214S0500K101-EPCOS-datasheet-11776948.pdf","Epcos","B72214S0500K101","85°C","4.5kA","0V","82V","0V","Radial, Through Hole",,"3.9mm"
+"B72510E1250K62","MOV","MOV_1210_3225","250pF","31V","Varistor","0805","0.1","0805","1A","67V","0.3J",,,"TDK EPCOS","B72510E1250K62","125°C","80A","42.9V","39V","35.1V","Surface Mount",,"1.25mm"
+"B72520T170K62","MOV","MOV_0805_2012","650pF","22V","Varistor","1206","0","1206","1A","44V","0.6J","1.7mm",,,"B72520T170K62","125°C","200A","29.7V","27V","0V","Surface Mount",,"1.6mm"
+"MOV_0603","MOV","MOV_0603_1608",,,"Varistor",,,,,,,,,,,,,,,,,,
+"MOV_22VDC_17VAC_0805","MOV","MOV_0805_2012",,,"Varistor",,,,,,,,,,,,,,,,,,
+"MOV_22VDC_17VAC_1206","MOV","MOV_1206_3216",,,"Varistor",,,,,,,,,,,,,,,,,,
+"MOV_22VDC_17VAC_1812","MOV","MOV_1812_4532",,,"Varistor",,,,,,,,,,,,,,,,,,
+"MOV_22VDC_17VAC_5MM","MOV","MOV_5MM",,,"Varistor",,,,,,,,,,,,,,,,,,
+"MOV-10D201KTR","MOV","MOV_10DXXXK","500pF","225V","Varistor",,"0.1","Radial","25A","340V","30J",,"https://www.bourns.com/docs/Product-Datasheets/MOV10D.pdf","Bourns","MOV-10D201KTR","85°C","2.5kA","225V","200V","185V","Radial, Through Hole",,"7.2mm"
+"VC080514C300DP","MOV","MOV_0805_2012","900pF","14V","Varistor","0805","0","0805","1A","32V","0.3J","1.02mm","http://datasheet.octopart.com/VC080514C300DP-AVX-datasheet-5333321.pdf","Kyocera","VC080514C300DP","125°C","120A","20.72V","18.5V","16.28V","Surface Mount",,"1.25mm"
+"VC2220K501R130","MOV","MOV_2220_5650","0µF","0V","Varistor",,"0",,"0A","0V",,,"http://datasheet.octopart.com/VC2220K501R130-KEMET-datasheet-86450646.pdf","Kemet","VC2220K501R130","0°C","0A","0V","0V","0V",,,"0mm"
