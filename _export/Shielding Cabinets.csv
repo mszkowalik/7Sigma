@@ -1,3 +1,3 @@
-"Part Number","Library Ref","Footprint Ref","Manufacturer","Manufacturer Part Number","Description","RoHS","Width","Length","Height","Mount","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
-"36003300S","Shielding_Cabinet_Cover","36003300S","Wurth Elektronik","36003300S","Top Cover",,"30mm","30mm","3mm",,"eiSos","36003300S","0.625","MK"
-"36103305S","Shielding_Cabinet_Frame","36103305S","Wurth Elektronik","36103305S","SMD Frame",,"30mm","30mm","3mm","Surface Mount","eiSos","36103305S","0.65","MK"
+"Part Number","Library Ref","Footprint Ref","Manufacturer","Manufacturer Part Number","Description","RoHS","Width","Length","Height","Mount"
+"36003300S","Shielding_Cabinet_Cover","36003300S","Wurth Elektronik","36003300S","Top Cover",,"30mm","30mm","3mm",
+"36103305S","Shielding_Cabinet_Frame","36103305S","Wurth Elektronik","36103305S","SMD Frame",,"30mm","30mm","3mm","Surface Mount"

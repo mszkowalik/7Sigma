@@ -1,5 +1,5 @@
-"Part Number","Library Ref","Footprint Ref","Description","Gender","Mount","Number of Rows","Pitch","Card Thickness","Height","HelpURL","Max Operating Temperature","Min Operating Temperature","Number of Positions","RoHS","Manufacturer","Manufacturer Part Number","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Status"
-"5-5530843-0","HEADER_2x10","5-5530843-0","Standard Card Edge Connectors 20POS 100C/L RECPT","Female","Through Hole","2","2.54mm","0.07inch","15.64mm",,"85°C","-55°C","20",,,,,,,
-"5-5530843-0 PCB","HEADER_2x10","5-5530843-0 PLUG","Standard Card Edge Connectors 20POS 100C/L PCB PLUG","Male","Surface Mount","2","2.54mm","0.07inch",,,"0°C","-55°C","20",,,,,,,
-"7-5530843-7","HEADER_2x3","7-5530843-7","CONN SEC II 3 POS 100C/L","Female","Through Hole","2","2.54mm","0.07inch","0.83inch",,"85°C","-55°C","6",,,,,,,
-"7-5530843-7 PCB","HEADER_2x3","7-5530843-7 PLUG","CONN SEC II 3 POS 100C/L PLUG","Male","Through Hole","2","2.54mm","0.07inch","0.83inch",,"85°C","-55°C","6",,,,,,,
+"Part Number","Library Ref","Footprint Ref","Description","Gender","Mount","Number of Rows","Pitch","Card Thickness","Depth","Height","HelpURL","Lead Free","Length","Max Operating Temperature","Min Operating Temperature","Number of Positions","REACH SVHC","RoHS","Width","Manufacturer","Manufacturer Part Number"
+"5-5530843-0","HEADER_2x10","5-5530843-0","Standard Card Edge Connectors 20POS 100C/L RECPT","Female","Through Hole","2","2.54mm","0.07inch",,"15.64mm",,"Lead Free","32mm","85°C","-55°C","20","No SVHC",,"9.35mm",,
+"5-5530843-0 PCB","HEADER_2x10","5-5530843-0 PLUG","Standard Card Edge Connectors 20POS 100C/L PCB PLUG","Male","Surface Mount","2","2.54mm","0.07inch",,,,"Lead Free",,"0°C","-55°C","20",,,,,
+"7-5530843-7","HEADER_2x3","7-5530843-7","CONN SEC II 3 POS 100C/L","Female","Through Hole","2","2.54mm","0.07inch","0.368inch","0.83inch",,,"0.56inch","85°C","-55°C","6",,,"0.61inch",,
+"7-5530843-7 PCB","HEADER_2x3","7-5530843-7 PLUG","CONN SEC II 3 POS 100C/L PLUG","Male","Through Hole","2","2.54mm","0.07inch",,"0.83inch",,,"0.56inch","85°C","-55°C","6",,,"0.61inch",,
