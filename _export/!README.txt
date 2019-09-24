@@ -1,1 +1,0 @@
-NIE modyfikować tych plików. Generowane automatycznie przez Access'a.

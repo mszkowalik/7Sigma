@@ -1,3 +1,0 @@
-"Part Number","Library Ref","Footprint Ref","Inductance","DC Current","Manufacturer Part Number","Manufacturer","Case/Package","Tolerance","Description","Mount","DC Resistance","Height","HelpURL","Max Operating Temperature","Status","RoHS","Saturation Current","Self Resonant Frequency"
-"L_2.1N_0402","L","L_0402_1005","2.1nH","440mA","ATFC-0402-2N1-BT","Abracon","0402",,"High Q Factor Ceramic Inductor","Surface Mount",,"0.32mm","http://datasheet.octopart.com/ATFC-0402-2N1-BT-Abracon-datasheet-8446248.pdf","85","MK","Compliant",,"8GHz"
-"L_31uH_PLANAR_35mm","L","L_PLANAR_31uH_35mm","31uH",,,,"35mm planar",,"Planar Inductor for RFID","Copper",,,,,,,,

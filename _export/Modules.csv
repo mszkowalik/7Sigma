@@ -1,9 +1,0 @@
-"Part Number","Library Ref","Footprint Ref","Manufacturer Part Number","Description","Manufacturer","Mount","Height","HelpURL"
-"ESP8266-12S","ESP8266-12S","ESP8266-12S","ESP8266-12S2491","WiFi 802.11b/g/n Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount","Adafruit Industries","Surface Mount","3mm","https://datasheet.octopart.com/2491-Adafruit-Industries-datasheet-101585337.pdf"
-"ESP-WROOM-02D","ESP-WROOM-02D","ESP-WROOM-02D","ESP-WROOM-02D","802.11 b/g/n wIfI Module","Espressif Systems","Surface Mount","3.2mm","https://www.espressif.com/sites/default/files/documentation/esp-wroom-02d_esp-wroom-02u_datasheet_en.pdf"
-"MOD_LEPTON_3.5_ADAPTER","MOD_LEPTON_3.5_ADAPTER","MOD_LEPTON_3.5_ADAPTER","KIT-13233",,"Sparkfun",,,"https://cdn.sparkfun.com/datasheets/Sensors/Infrared/FLIR_Lepton_Data_Brief.pdf"
-"MOD_NXE2","MOD_NXE2","MOD_NXE2","NXE2S0505MC-R7","Surface  mount DC/DC converters 5V/5V 0.4A","Murata",,,"http://power.murata.com/data/power/ncl/kdc_nxe2.pdf"
-"MOD_RASPBERRYPI_3B","MOD_RASPBERRYPI_3B","MOD_RASPBERRYPI_3B","RASPBERRY PI 2 MODEL B",,"Raspberry Pi",,,"https://datasheet.octopart.com/RASPBERRY-PI-3-MODEL-B%2B-Raspberry-Pi-datasheet-110839835.pdf"
-"NEO-M8N","NEO-M8N","NEO-M8","NEO-M8N",,"U-Blox","Surface Mount",,
-"Raspberry Compute Module 3 Connector","Raspberry Compute Module 3 Connector","Raspberry Pi Compute Module 3",,"Raspberry CM3, version with and without eMMC",,"Surface Mount","5.2mm",
-"ZED-F9P-00B","ZED-F9P","ZED-F9P","ZED-F9P-00B","High precision GNSS module","u-blox","Surface Mount","2.4mm","https://www.u-blox.com/sites/default/files/ZED-F9P_DataSheet_%28UBX-17051259%29.pdf"
