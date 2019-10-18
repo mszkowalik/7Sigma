@@ -176,9 +176,6 @@ TableName=Connectors_USB
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=124|Library Ref0=81|Footprint Ref0=92|Description0=83|Manufacturer0=95|Manufacturer Part Number0=166|Mount0=81|Series0=81|Number of Pins0=106|USB Standard0=94|Orientation0=83|HelpURL0=81|Max Operating Temperature0=172|RoHS0=81|Height0=81
 [Table27]
 SchemaName=
 TableName=Connectors_Wire to Board
