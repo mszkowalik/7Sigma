@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MSDASQL.1;Persist Security Info=False;User ID=Altium;Data Source=7Sigma;Initial Catalog=Library
+ConnectionString=Provider=MSDASQL.1;Password=Altium123;Persist Security Info=True;User ID=Altium@altiumlib;Data Source=7Sigma Azure;Initial Catalog=Library
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=ALTIUM
-LastFocusedTable=Circuit Protection_Fuses
+LastFocusedTable=Antennas
 [Table1]
 SchemaName=
 TableName=Antennas
@@ -62,9 +62,6 @@ TableName=Circuit Protection_Fuses
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Description0=100|Footprint Ref0=100|Max Current Rating0=100|Case/Package0=100|Height0=100|HelpURL0=100|Hold Current0=100|Manufacturer0=100|Manufacturer Part Number0=100|Max Operating Temperature0=100|Max Power Dissipation0=100|Max Voltage Rating (DC)0=100|Mount0=100|Resistance0=100|RoHS0=100|Time to Trip0=100|Trip Current0=100|Status0=100
 [Table8]
 SchemaName=
 TableName=Circuit Protection_GDTs
