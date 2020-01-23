@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=ALTIUM
-LastFocusedTable=IC_High Side Switches
+LastFocusedTable=Antennas
 [Table1]
 SchemaName=
 TableName=Antennas
@@ -200,9 +200,6 @@ TableName=Diodes_Shottky
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=150|Library Ref0=77|Footprint Ref0=92|Description0=82|Case/Package0=93|Current Rating0=99|Mount0=77|Max Reverse Voltage (DC)0=153|Height0=77|HelpURL0=77|Max Operating Temperature0=168|RoHS0=77|Manufacturer0=93|Manufacturer Part Number0=160|Supplier 10=77|Supplier Part Number 10=142
 [Table31]
 SchemaName=
 TableName=Diodes_Zenner Diodes
@@ -215,99 +212,66 @@ TableName=Enclosures
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Manufacturer Part Number0=160|RoHS0=77|Width0=77|Length0=77|Height0=77|Mount0=77|Help URL0=77|Supplier 10=77|Supplier Part Number 10=142
 [Table33]
 SchemaName=
 TableName=IC_ADC
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Revision State0=95|Case/Package0=93|Mount0=77|Number of Bits0=99|Polarity0=77|Height0=77|HelpURL0=77|Interface0=77|Lead Free0=77|Length0=77|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Operating Temperature0=167|Min Supply Voltage0=124|Number of Pins0=102|REACH SVHC0=89|Resolution0=79|RoHS0=77|Sampling Rate0=97|Status0=77|Supply Type0=85|Width0=77|Manufacruter0=93|Manufacturer Part Number0=160
 [Table34]
 SchemaName=
 TableName=IC_Amplifiers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=106|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Manufacturer Part Number0=160|Case/Package0=93|Mount0=77|Gain Bandwidth Product0=149|Height0=77|HelpURL0=77|Input Offset Voltage (Vos)0=157|Marking0=77|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Supply Voltage0=124|Number of Amplifiers0=132|RoHS0=77
 [Table35]
 SchemaName=
 TableName=IC_Analog Muxes and Switches
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Description0=100|Case/Package0=100|Manufacturer0=100|Manufacturer Part Number0=100|Mount0=100|HelpURL0=100|Marking0=100|Max Operating Temperature0=100|Max Supply Voltage0=100|Min Supply Voltage0=100|RoHS0=100|Height0=100|Status0=100|Supplier 10=100|Supplier Part Number0=100
 [Table36]
 SchemaName=
 TableName=IC_Battery Management
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Description0=100|Manufacturer0=100|Manufacturer Part Number0=100|Case/Package0=100|Mount0=100|Height0=100|HelpURL0=100|Marking0=100|Max Charge Current0=100|Max Operating Temperature0=100|Max Supply Voltage0=100|Min Supply Voltage0=100|RoHS0=100|Status0=100|Supplier 10=100|Supplier Part Number 10=100
 [Table37]
 SchemaName=
 TableName=IC_Comparators
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Manufacturer Part Number0=160|Number of Comparators0=147|Case/Package0=93|Mount0=77|Response Time0=100|Height0=77|Input Offset Voltage0=129|Marking0=77|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Supply Voltage0=124|HelpURL0=77|Number of Pins0=102|RoHS0=77
 [Table38]
 SchemaName=
 TableName=IC_DAC
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=103|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Case/Package0=93|Mount0=77|Polarity0=77|Height0=77|HelpURL0=77|Interface0=77|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Supply Voltage0=124|Resolution0=79|RoHS0=77|Sampling Rate0=97|Status0=77|Manufacturer Part Number0=160
 [Table39]
 SchemaName=
 TableName=IC_FPGAs
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=106|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Manufacturer Part Number0=160|Case/Package0=93|Frequency0=77|Mount0=77|HelpURL0=77|Lead Free0=77|Marking0=77|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Operating Temperature0=167|Min Supply Voltage0=124|Number of Pins0=102|Operating Supply Voltage0=157|REACH SVHC0=89|RoHS0=77|Height0=77|Length0=77|Width0=77
 [Table40]
 SchemaName=
 TableName=IC_High Side Switches
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Description0=100|Case/Package0=100|Manufacturer0=100|Mount0=100|Max Output Current0=100|HelpURL0=100|Marking0=100|Max Input Voltage0=100|Max Operating Temperature0=100|Min Input Voltage0=100|Output Current0=100|Height0=100|RoHS0=100|Status0=100|Manufacturer Part Number0=100
 [Table41]
 SchemaName=
 TableName=IC_Interface
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=105|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Case/Package0=93|Max Power Dissipation0=140|Mount0=77|Height0=77|HelpURL0=77|Logic Function0=99|Marking0=77|Max Frequency0=100|Max Operating Temperature0=168|Max Supply Current0=124|Max Supply Voltage0=125|Min Supply Voltage0=124|Number of Pins0=102|RoHS0=77|Status0=77|Manufacturer Part Number0=160
 [Table42]
 SchemaName=
 TableName=IC_LED Drivers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Description0=100|Manufacturer0=100|Manufacturer Part Number0=100|Case/Package0=100|Frequency0=100|Max Output Current0=100|Max Power Dissipation0=100|Mount0=100|Number of Outputs0=100|Height0=100|HelpURL0=100|Marking0=100|Max Input Voltage0=100|Max Operating Temperature0=100|Max Output Voltage0=100|Max Supply Current0=100|Max Supply Voltage0=100|Min Input Voltage0=100|Min Output Voltage0=100|Number of Pins0=100|Power Dissipation0=100|RoHS0=100|Status0=100|Switching Frequency0=100|Topology0=100
 [Table43]
 SchemaName=
 TableName=IC_Linear Regulators
@@ -338,45 +302,30 @@ TableName=IC_Motor Drivers
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Description0=100|Output Current0=100|Manufacturer0=100|Manufacturer Part Number0=100|Max Output Current0=100|Max Power Dissipation0=100|Mount0=100|Number of Outputs0=100|Fault Protection0=100|HelpURL0=100|Interface0=100|Marking0=100|Switching Frequency0=100|Max Supply Voltage0=100|Min Supply Voltage0=100|Max Operating Temperature0=100|Height0=100|RoHS0=100|Status0=100|Supplier 10=100|Supplier Part Number 10=100|Case/Package0=100
 [Table48]
 SchemaName=
 TableName=IC_References
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=88|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer Part Number0=160|Manufacturer0=93|Tolerance0=73|Case/Package0=93|Output Current0=103|Max Input Voltage0=118|Max Output Current0=127|Max Output Voltage0=128|Max Operating Temperature0=168|Min Output Voltage0=127|Min Operating Temperature0=167|Output Type0=88|Mount0=77|Height0=77|HelpURL0=77|Lead Free0=77|Length0=77|Number of Pins0=102|Output Voltage0=104|REACH SVHC0=89|Reference Type0=101|Reference Voltage0=117|RoHS0=77|Width0=77|Supplier 10=77|Supplier Part Number 10=142
 [Table49]
 SchemaName=
 TableName=IC_Sensors
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=117|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer Part Number0=160|Output Current0=103|Manufacturer0=93|Case/Package0=93|Polarity0=77|Output Type0=88|Mount0=77|Accuracy0=77|Axis0=77|Bandwidth0=79|Height0=77|HelpURL0=77|Marking0=77|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Supply Voltage0=124|Operating Supply Current0=156|RoHS0=77|Sensitivity0=77|Sensor Type0=85|Status0=77|Supplier 10=77|Supplier Part Number 10=142
 [Table50]
 SchemaName=
 TableName=IC_Switching Regulators
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Footprint Ref0=100|Description0=100|Manufacturer0=100|Manufacturer Part Number0=100|Number of Outputs0=100|Max Output Current0=100|Min Output Voltage0=100|Min Input Voltage0=100|Max Input Voltage0=100|Max Output Voltage0=100|Max Operating Temperature0=100|Max Frequency0=100|Mount0=100|Topology0=100|Height0=100|HelpURL0=100|Marking0=100|Number of Pins0=100|Output Configuration0=100|Quiescent Current0=100|RoHS0=100|Synchronous Rectifier0=100|Status0=100|Case/Package0=100
 [Table51]
 SchemaName=
 TableName=IC_USB
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=77|Footprint Ref0=92|Description0=82|Manufacturer0=93|Frequency0=77|Max Output Current0=127|Case/Package0=93|Number of Outputs0=124|Mount0=77|Height0=77|HelpURL0=77|Lead Free0=77|Length0=77|Marking0=77|Max Input Voltage0=118|Max Operating Temperature0=168|Max Supply Voltage0=125|Min Input Voltage0=117|Min Operating Temperature0=167|Min Supply Voltage0=124|Number of Pins0=102|REACH SVHC0=89|RoHS0=77|Status0=77|Width0=77
 [Table52]
 SchemaName=
 TableName=Inductors_Ferrite Beads
