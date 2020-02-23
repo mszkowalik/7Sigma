@@ -29,7 +29,6 @@ steps:
 #     pytest
 #   displayName: 'pytest'
 
-- script: 
-     pip install pytest pytest-azurepipelines
-     python Python_Scripts\altium_parser/main.py
+- script: |
+    python Python_Scripts\altium_parser/main.py
   displayName: 'pytest'
