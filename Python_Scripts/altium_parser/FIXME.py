@@ -27,6 +27,11 @@ test_dnc_should_be_passive_FIXME = \
 
 test_letter_d_on_layer_17_FIXME = \
     { }
+test_3d_model_on_layer_13_FIXME = \
+{
+
+}
+
 
 test_dash_on_layer_19_FIXME = \
     { }

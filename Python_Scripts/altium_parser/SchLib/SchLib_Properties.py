@@ -106,7 +106,7 @@ def parse_properties(schlib, data):
     dict = parseKeyValueString(data.data)
     typ = int(dict["RECORD"])
     if typ == 45 or typ == 46:
-        print(dict)
+        #print(dict)
         modeltype = dict["MODELTYPE"]
         if modeltype != "SIM":
             assert False, "Footprint model should not be included in SchLib File: " + schlib.name

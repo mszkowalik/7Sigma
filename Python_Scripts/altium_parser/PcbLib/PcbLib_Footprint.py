@@ -71,6 +71,6 @@ class Footprint:
             RecordType.Region: [Region, self.Region],
             RecordType.Body3D: [Body3D, self.Body3D],
         }
-
+        
         t = record_map[RecordType(record_type)]
         t[1].add(t[0](self.datapack))

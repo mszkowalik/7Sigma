@@ -45,10 +45,12 @@ class TestPcbLibs(TestCase):
         self.assertIn('Drill Guide', pcblib.layers)
         self.assertIn('Keep-Out Layer', pcblib.layers)
         self.assertIn('Drill Drawing', pcblib.layers)
-        self.assertIn('Mechanical 13', pcblib.layers)
-        self.assertIn('Mechanical 15', pcblib.layers)
-        self.assertIn('Mechanical 17', pcblib.layers)
-        self.assertIn('Mechanical 19', pcblib.layers)
+        self.assertIn('Top 3D Body', pcblib.layers)
+        self.assertIn('Bottom 3D Body', pcblib.layers)
+        self.assertIn('Top Assembly', pcblib.layers)
+        self.assertIn('Bottom Assembly', pcblib.layers)
+        self.assertIn('Top Courtyard', pcblib.layers)
+        self.assertIn('Bottom Courtyard', pcblib.layers)
 
         
 
@@ -70,69 +72,65 @@ class TestPcbLibs(TestCase):
             self.assertNotEqual("", footprint.name)
 
     @for_all_pcblibs
-    def test_3d_model_on_layer_13(self, f):
+    def test_3d_model_exists(self, f):
         for footprint in f.Footprints:
             x = footprint.Body3D
-            for body3d in x:
-                self.assertEqual('MECHANICAL13', body3d.layer_name)
+            self.assertIsNotNone(x,"No  3D model on footprint{}".format(footprint.name))
 
-    @for_all_pcblibs
-    def test_letter_d_on_layer_17(self, f):
-        for footprint in f.Footprints:
-            texts = footprint.Text
+            # for body3d in x:
+            #     self.assertEqual('MECHANICAL13', body3d.layer_name)
 
-            found = False
-            for i in texts:
-                if i.text == 'd':
-                    if i.layer_id == f.layers['Mechanical 17']:
-                        found = True
+    # @for_all_pcblibs
+    # def test_letter_d_on_layer_17(self, f):
+    #     for footprint in f.Footprints:
+    #         texts = footprint.Text
 
-            self.assertTrue(found, "Cannot find d on layer 17")
+    #         found = False
+    #         for i in texts:
+    #             if i.text == 'd':
+    #                 if i.layer_id == f.layers['Mechanical 17']:
+    #                     found = True
 
-    @for_all_pcblibs
-    def test_dash_on_layer_19(self, f):
-        for footprint in f.Footprints:
-            texts = footprint.Text
+    #         self.assertTrue(found, "Cannot find d on layer 17")
 
-            found = False
-            for i in texts:
-                if i.text == '-':
-                    if i.layer_id == f.layers['Mechanical 19']:
-                        found = True
+    # @for_all_pcblibs
+    # def test_dash_on__layer(self, f):
+    #     for footprint in f.Footprints:
+    #         texts = footprint.Text
 
-            self.assertTrue(found, "Cannot find - on layer 19")
+    #         found = False
+    #         for i in texts:
+    #             if i.text == '-':
+    #                 if i.layer_id == f.layers['Top Courtyard']:
+    #                     found = True
+
+    #         self.assertTrue(found, "Cannot find - on layer 19")
 
     @for_all_pcblibs
     def test_correct_name_for_typical_packages(self, f):
         for footprint in f.Footprints:
             n = footprint.name
 
-            def test_format(text, prefix):
+            def test_format(text, prefix, regex):
                 if n.startswith(prefix):
-                    self.assertRegex(text, prefix + "\\d+_[\\d\\.]+x[\\d\\.]+$")
+                    self.assertRegex(text, prefix + regex)
 
-            test_format(n, "DFN")
-            test_format(n, "LGA")
-            test_format(n, "LQFP")
-            test_format(n, "QFN")
-            test_format(n, "TQFP")
-            test_format(n, "TSSOP")
-            test_format(n, "VQFN")
-            test_format(n, "VSON")
-            test_format(n, "VSSOP")
-            test_format(n, "WQFN")
-            test_format(n, "WSON")
+            test_format(n, "DFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "LGA", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "LQFP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "QFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "TQFP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "TSSOP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "VQFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "VSON", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "VSSOP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "WQFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, "WSON", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
 
     @for_all_pcblibs
     def test_pcblib_designator_name(self, pcblib):
-        exposed_pads = []
-
+        
         for footprint in pcblib.Footprints:
             for r in footprint.Pad:
-                self.assertRegex(r.Designator, "^(EP[1-9]|MH\\d?|\\d+|[A-Z]+\\d+|DNC|GND|IN|OUT)$")
-                if r.Designator.find('EP') != -1:
-                    exposed_pads.append(int(r.Designator[2:]))
-        
-        exposed_pads = list(set(sorted(exposed_pads)))
-        for i in range(0, len(exposed_pads)):
-            self.assertEqual(i+1, exposed_pads[i], "Exposed pads not numbered correctly (on pad EP{})".format(exposed_pads[i]))
+                self.assertRegex(r.Designator, "^(MH\\d?|\\d+|[A-Z]+\\d+|DNC|GND|IN|OUT)$")
+                

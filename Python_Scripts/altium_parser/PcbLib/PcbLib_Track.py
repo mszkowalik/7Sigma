@@ -15,6 +15,7 @@ class SubRecord_Track:
 
 class Track:
     def __init__(self, data):
+        #print(data)
         SubRecord_Track.__init__(self, data.subrecord())
 
     def __str__(self):
