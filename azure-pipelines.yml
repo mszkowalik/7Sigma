@@ -25,8 +25,6 @@ steps:
   displayName: 'Install dependencies'
 
 - script: |
-    pip install pytest
-    pip install pytest-cov
     pytest Python_Scripts\altium_parser\main.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
   displayName: 'Test with pytest'
   
