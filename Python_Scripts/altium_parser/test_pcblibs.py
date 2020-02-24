@@ -33,24 +33,9 @@ class TestPcbLibs(TestCase):
 
     @for_all_pcblibs
     def test_correct_layer_names(self, pcblib):
-        self.assertIn('Top Layer', pcblib.layers)
-        self.assertIn('Bottom Layer', pcblib.layers)
-        self.assertIn('Top Paste', pcblib.layers)
-        self.assertIn('Bottom Paste', pcblib.layers)
-        self.assertIn('Top Solder', pcblib.layers)
-        self.assertIn('Bottom Solder', pcblib.layers)
-        self.assertIn('Top Overlay', pcblib.layers)
-        self.assertIn('Bottom Overlay', pcblib.layers)
-        self.assertIn('Multi-Layer', pcblib.layers)
-        self.assertIn('Drill Guide', pcblib.layers)
-        self.assertIn('Keep-Out Layer', pcblib.layers)
-        self.assertIn('Drill Drawing', pcblib.layers)
-        self.assertIn('Top 3D Body', pcblib.layers)
-        self.assertIn('Bottom 3D Body', pcblib.layers)
-        self.assertIn('Top Assembly', pcblib.layers)
-        self.assertIn('Bottom Assembly', pcblib.layers)
-        self.assertIn('Top Courtyard', pcblib.layers)
-        self.assertIn('Bottom Courtyard', pcblib.layers)
+        layers = ['Top Layer','Bottom Layer','Top Paste','Bottom Paste','Top Solder','Bottom Solder','Top Overlay','Bottom Overlay','Multi-Layer','Drill Guide','Top 3D Body','Bottom 3D Body','Top Assembly','Bottom Assembly','Top Courtyard','Bottom Courtyard']
+        for layer in layers:
+            self.assertIn(layer, pcblib.layers, layer + " not found")    
 
         
 

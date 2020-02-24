@@ -57,7 +57,7 @@ class DataPack:
     def check(self, correct):
         length = len(correct)
         if self.data[:length] != correct:
-            print(self.data[:length], "!=", correct)
+            # print(self.data[:length], "!=", correct)
             assert self.data[:length] == correct
 
         self.data[:] = self.data[length:]
