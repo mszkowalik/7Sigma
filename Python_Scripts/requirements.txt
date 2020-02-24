@@ -1,2 +1,4 @@
 validators
 olefile
+pytest-cov
+pytest
