@@ -33,7 +33,7 @@ class TestPcbLibs(TestCase):
 
     @for_all_pcblibs
     def test_correct_layer_names(self, pcblib):
-        layers = ['Top Layer','Bottom Layer','Top Paste','Bottom Paste','Top Solder','Bottom Solder','Top Overlay','Bottom Overlay','Multi-Layer','Drill Guide','3D Body Top','3D Body Bottom','Top Assembly','Bottom Assembly','Top Courtyard','Bottom Courtyard']
+        layers = ['Top Layer','Bottom Layer','Top Paste','Bottom Paste','Top Solder','Bottom Solder','Top Overlay','Bottom Overlay','Multi-Layer','Drill Guide','Top 3D Body','Bottom 3D Body','Top Assembly','Bottom Assembly','Top Courtyard','Bottom Courtyard']
         for layer in layers:
             self.assertIn(layer, pcblib.layers, layer + " not found")    
 
