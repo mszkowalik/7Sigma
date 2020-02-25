@@ -508,7 +508,6 @@ test_footprint_name_same_as_filename_FIXME = \
  '76SD01T',
  'HTSSOP14_4X5X11',
  'PAD 1.6mm',
- 'R_1020_25250',
  'WCAP-ASLI_6.3X7.7'}
 test_pcblib_designator_name_FIXME = \
     {'1010030682',
