@@ -24,17 +24,8 @@ test_dnc_should_be_passive_FIXME = \
 
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ PCB LIB ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-test_letter_d_on_layer_17_FIXME = \
-    { }
-test_3d_model_on_layer_13_FIXME = \
-{
-
-}
-
-
 test_correct_layer_names_FIXME = \
-{'0900-4-15-20-75-14-11-0-Footprint-1',
+    {'0900-4-15-20-75-14-11-0-Footprint-1',
  '0900BL18B100',
  '0900PC15J0013_M',
  '0915LP15B026E',
@@ -294,7 +285,6 @@ test_correct_layer_names_FIXME = \
  'R_0402_1005',
  'R_0603_1608',
  'R_0805_2012',
- 'R_1020_25250',
  'R_1206_3216',
  'R_1210_3225',
  'R_2512_6432',
