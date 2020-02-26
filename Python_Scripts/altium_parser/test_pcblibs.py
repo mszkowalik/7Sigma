@@ -101,17 +101,17 @@ class TestPcbLibs(TestCase):
                 if n.startswith(prefix):
                     self.assertRegex(text, prefix + regex)
 
-            test_format(n, "DFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "LGA", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "LQFP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "QFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "TQFP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "TSSOP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "VQFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "VSON", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "VSSOP", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "WQFN", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, "WSON", "\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"DFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"LGA", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"LQFP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"QFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"TQFP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"TSSOP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"VQFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"VSON", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"VSSOP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"WQFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+            test_format(n, r"WSON", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
 
     @for_all_pcblibs
     def test_pcblib_designator_name(self, pcblib):
