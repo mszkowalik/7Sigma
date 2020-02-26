@@ -38,19 +38,19 @@ def for_all_elements(elements, foo):
             msg_errors = "\nErrors in files:\n" + pformat(errors) + "\n\n" + errors_verbose
             msg_excluded = "\nNo errors detected in elements:\n" + pformat(excluded) + "\nbut the elements were excluded in FIXME.py or SKIPPED.py file."
 
-            if len(used) > 0 or len(excluded) > 0:
-                print()
-                print("Errors: ", errors)
-                print("Excluded: ", excluded)
+            # if len(used) > 0 or len(excluded) > 0:
+            #     print()
+            #     print("Errors: ", errors)
+            #     print("Excluded: ", excluded)
             
-            if len(errors) > 0 and len(excluded) > 0:
-                self.fail(msg_errors + "\n" + msg_excluded)
+            # if len(errors) > 0 and len(excluded) > 0:
+            #     self.fail(msg_errors + "\n" + msg_excluded)
 
-            if len(errors) > 0:
-                self.fail(msg_errors)
+            # if len(errors) > 0:
+            #     self.fail(msg_errors)
             
-            if len(excluded) > 0:
-                self.fail(msg_excluded)
+            # if len(excluded) > 0:
+            #     self.fail(msg_excluded)
 
         return wrapper
 
