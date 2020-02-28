@@ -4,7 +4,6 @@ from glob import glob
 
 from PcbLib.PcbLib import PcbLib
 from SchLib.SchLib import SchLib
-# from AltiumDatabase.AltiumDatabase import AltiumDatabase
 from AltiumDatabase.Database_SQL import AltiumDatabase
 
 def parse_pcblib():
@@ -67,8 +66,8 @@ schematics = get_schematics(schlibs)
 
 database = AltiumDatabase().database
 
-# altium_database_class = AltiumDatabase()
-# database = _altium_database_class.database
+#altium_database_class = AltiumDatabase()
+#database = altium_database_class.database
 # database_files = _altium_database_class.files
 
 # manufacturers = parse_manufacturers()
