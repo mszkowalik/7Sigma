@@ -29,7 +29,7 @@ steps:
   displayName: 'Test PCBLibs'
 
 - script: |
-    pytest Python_Scripts\altium_parser\test_database.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
+    pytest Python_Scripts\altium_parser\tests_database.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
   displayName: 'Test Database'
   
 - task: PublishTestResults@2
