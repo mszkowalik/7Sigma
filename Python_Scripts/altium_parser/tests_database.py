@@ -39,3 +39,7 @@ class TestDatabase(TestCase):
         for i in part.dictionary.values():
             if type(i) == str:
                 self.assertEqual(i.strip(), i, "Whitespace in field |" + i + "|")
+
+if __name__ == '__main__':
+    unittest.main()
+

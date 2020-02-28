@@ -1,4 +1,5 @@
 from unittest import TestCase
+import unittest
 
 import parse
 from PcbLib.PcbLib_Body3D import Body3D
@@ -120,3 +121,6 @@ class TestPcbLibs(TestCase):
             self.assertTrue(found, "Cannot find - on layer 19") 
 """
 
+
+if __name__ == '__main__':
+    unittest.main()

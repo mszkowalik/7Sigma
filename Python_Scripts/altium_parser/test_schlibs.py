@@ -1,4 +1,5 @@
 from unittest import TestCase
+import unittest
 import itertools
 import re
 
@@ -186,3 +187,7 @@ class TestSchLibs(TestCase):
 
         prefix = lib.name.split("_")[0]
         self.assertEqual(lib.designator.text, correct_designator[prefix] + '?')
+
+
+if __name__ == '__main__':
+    unittest.main()
