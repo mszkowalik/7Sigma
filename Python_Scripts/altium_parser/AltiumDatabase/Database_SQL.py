@@ -40,8 +40,9 @@ class AltiumDatabase:
         'host':'altiumlib.mysql.database.azure.com',
         'user':'Altium@altiumlib',
         'password':'Altium123',
-        'database':'Library',
-        'ssl_ca':'BaltimoreCyberTrustRoot.crt.pem'
+        'database':'Library'
+        # ,
+        # 'ssl_ca':'BaltimoreCyberTrustRoot.crt.pem'
         }
 
         # Construct connection string
