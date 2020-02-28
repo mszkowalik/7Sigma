@@ -1,7 +1,5 @@
 olefile==0.46
 validators==0.14.2
-mysql_connector_repackaged==0.3.1
-mysql_connector
 pyperclip==1.7.0
 pytest-cov
 pytest
