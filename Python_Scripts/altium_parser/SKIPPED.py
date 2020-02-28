@@ -16,3 +16,8 @@ test_proper_suppliers_SKIPPED = {
  }
 
 test_database_resistors_SKIPPED = {}
+
+test_all_pins_from_pcblib_are_on_schlib_SKIPPED = {
+ '658101003064',
+ '658158303064',
+}
