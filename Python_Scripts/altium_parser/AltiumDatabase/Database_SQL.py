@@ -28,7 +28,7 @@ class Part:
 
 class AltiumDatabase:
     def __init__(self):
-        verbose = True
+        verbose = False
 
         if verbose:
             log.basicConfig(format="%(levelname)s: %(message)s", level=log.DEBUG)
@@ -40,7 +40,8 @@ class AltiumDatabase:
         'host':'altiumlib.mysql.database.azure.com',
         'user':'Altium@altiumlib',
         'password':'Altium123',
-        'database':'Library'
+        'database':'Library',
+        'ssl_ca':'BaltimoreCyberTrustRoot.crt.pem'
         }
 
         # Construct connection string
