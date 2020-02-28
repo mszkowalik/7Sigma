@@ -41,13 +41,13 @@ def for_all_elements(elements, foo):
             # if len(used) > 0 or len(excluded) > 0:
             #     print()
             #     print("Errors: ", errors)
-            #     print("Excluded: ", excluded)
+            #    print("Excluded: ", excluded)
             
             # if len(errors) > 0 and len(excluded) > 0:
             #     self.fail(msg_errors + "\n" + msg_excluded)
 
-            # if len(errors) > 0:
-            #     self.fail(msg_errors)
+            if len(errors) > 0:
+                self.fail(msg_errors)
             
             # if len(excluded) > 0:
             #     self.fail(msg_excluded)

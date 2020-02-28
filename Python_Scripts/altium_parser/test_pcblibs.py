@@ -38,8 +38,6 @@ class TestPcbLibs(TestCase):
         for layer in layers:
             self.assertIn(layer, pcblib.layers, layer + " not found")    
 
-        
-
     @for_all_pcblibs
     def test_pads_on_top_or_multi_layer(self, pcblib):
         for footprint in pcblib.Footprints:
@@ -65,32 +63,6 @@ class TestPcbLibs(TestCase):
 
             # for body3d in x:
             #     self.assertEqual('MECHANICAL13', body3d.layer_name)
-
-    # @for_all_pcblibs
-    # def test_letter_d_on_layer_17(self, f):
-    #     for footprint in f.Footprints:
-    #         texts = footprint.Text
-
-    #         found = False
-    #         for i in texts:
-    #             if i.text == 'd':
-    #                 if i.layer_id == f.layers['Mechanical 17']:
-    #                     found = True
-
-    #         self.assertTrue(found, "Cannot find d on layer 17")
-
-    # @for_all_pcblibs
-    # def test_dash_on__layer(self, f):
-    #     for footprint in f.Footprints:
-    #         texts = footprint.Text
-
-    #         found = False
-    #         for i in texts:
-    #             if i.text == '-':
-    #                 if i.layer_id == f.layers['Top Courtyard']:
-    #                     found = True
-
-    #         self.assertTrue(found, "Cannot find - on layer 19")
 
     @for_all_pcblibs
     def test_correct_name_for_typical_packages(self, f):
@@ -120,3 +92,31 @@ class TestPcbLibs(TestCase):
             for r in footprint.Pad:
                 self.assertRegex(r.Designator, "^(MH\\d?|\\d+|[A-Z]+\\d+|DNC|GND|IN|OUT)$")
                 
+
+"""     @for_all_pcblibs
+    def test_letter_d_on_layer_17(self, f):
+        for footprint in f.Footprints:
+            texts = footprint.Text
+
+            found = False
+            for i in texts:
+                if i.text == 'd':
+                    if i.layer_id == f.layers['Mechanical 17']:
+                        found = True
+
+            self.assertTrue(found, "Cannot find d on layer 17")
+
+    @for_all_pcblibs
+    def test_dash_on__layer(self, f):
+        for footprint in f.Footprints:
+            texts = footprint.Text
+
+            found = False
+            for i in texts:
+                if i.text == '-':
+                    if i.layer_id == f.layers['Top Courtyard']:
+                        found = True
+
+            self.assertTrue(found, "Cannot find - on layer 19") 
+"""
+
