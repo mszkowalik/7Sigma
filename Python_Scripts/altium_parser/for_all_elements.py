@@ -35,7 +35,8 @@ def for_all_elements(elements, foo):
             
 
             errors = {used[i][0] for i in used}
-            msg_errors = "\nErrors in files:\n" + pformat(errors) + "\n\n" + errors_verbose
+            msg_errors = "\nErrors in files:\n" + pformat(errors)
+            #  + "\n\n" + errors_verbose
             msg_excluded = "\nNo errors detected in elements:\n" + pformat(excluded) + "\nbut the elements were excluded in FIXME.py or SKIPPED.py file."
 
             # if len(used) > 0 or len(excluded) > 0:

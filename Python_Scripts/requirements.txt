@@ -5,3 +5,4 @@ mysql_connector
 pyperclip==1.7.0
 pytest-cov
 pytest
+mysql-connector-python
