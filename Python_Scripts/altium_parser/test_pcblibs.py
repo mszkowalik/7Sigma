@@ -64,26 +64,26 @@ class TestPcbLibs(TestCase):
             # for body3d in x:
             #     self.assertEqual('MECHANICAL13', body3d.layer_name)
 
-    @for_all_pcblibs
-    def test_correct_name_for_typical_packages(self, f):
-        for footprint in f.Footprints:
-            n = footprint.name
+    # @for_all_pcblibs
+    # def test_correct_name_for_typical_packages(self, f):
+    #     for footprint in f.Footprints:
+    #         n = footprint.name
 
-            def test_format(text, prefix, regex):
-                if n.startswith(prefix):
-                    self.assertRegex(text, prefix + regex)
+    #         def test_format(text, prefix, regex):
+    #             if n.startswith(prefix):
+    #                 self.assertRegex(text, prefix + regex)
 
-            test_format(n, r"DFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"LGA", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"LQFP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"QFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"TQFP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"TSSOP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"VQFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"VSON", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"VSSOP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"WQFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
-            test_format(n, r"WSON", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"DFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"LGA", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"LQFP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"QFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"TQFP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"TSSOP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"VQFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"VSON", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"VSSOP", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"WQFN", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
+    #         test_format(n, r"WSON", r"\d{1,2}P\d{1,3}X\d{1,3}X\d{1,3}-\d{1,3}[A-Z]{1}")
 
     @for_all_pcblibs
     def test_pcblib_designator_name(self, pcblib):
