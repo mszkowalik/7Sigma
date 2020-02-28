@@ -65,7 +65,7 @@ footprints = get_footprints(pcblibs)
 schlibs = parse_schlib()
 schematics = get_schematics(schlibs)
 
-database = AltiumDatabase().database
+# database = AltiumDatabase().database
 
 # altium_database_class = AltiumDatabase()
 # database = _altium_database_class.database
