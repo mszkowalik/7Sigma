@@ -28,7 +28,7 @@ class Part:
 
 class AltiumDatabase:
     def __init__(self):
-        verbose = False
+        verbose = True
 
         if verbose:
             log.basicConfig(format="%(levelname)s: %(message)s", level=log.DEBUG)
