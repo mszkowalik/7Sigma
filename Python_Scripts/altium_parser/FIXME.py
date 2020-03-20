@@ -104,7 +104,6 @@ test_dnc_should_be_passive_FIXME = \
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ PCB LIB ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 test_correct_layer_names_FIXME =\
     {'1455Q1602BK',
- '15435385A9050',
  '1571626-2-Footprint-1',
  '1734366-1-Footprint-1',
  '201267-0005',
@@ -257,7 +256,6 @@ test_correct_layer_names_FIXME =\
  'TP_2PIN',
  'TP_PAD_1.3MM',
  'TP_PAD_1.5',
- 'TP_PAD_2',
  'TSOP65P640X120_HS-29N',
  'TSOP6_SC74_SOT457',
  'TSOP75338TR',
@@ -321,7 +319,6 @@ test_correct_name_for_typical_packages_FIXME = \
 test_no_duplicated_pads_designators_FIXME = \
     {'1010030682',
  '10114830-10104LF',
- '15435385A9050',
  '1734366-1-Footprint-1',
  '201267-0005',
  '2412_Coin_Cell',
@@ -779,7 +776,6 @@ test_datasheet_valid_url_FIXME = \
  'TP_2PIN',
  'TP_PAD_1.3MM',
  'TP_PAD_1.5',
- 'TP_PAD_2',
  'TR_Z0103MNT1G_600V_1A_SOT223',
  'TS2937CM-5.0C0',
  'USB A PCB Connector',

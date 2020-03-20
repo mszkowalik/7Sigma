@@ -3,12 +3,15 @@ test_pin_length_should_be_200_mils_SKIPPED = \
 
 test_datasheet_valid_url_SKIPPED = {
     'T-CONNECT FEMALE',
-    'T-CONNECT MALE'
+    'T-CONNECT MALE',
+    'TP_PAD_2MM'
     }
 
 test_pin_designators_shoud_be_visible_SKIPPED = {}
 	 
-test_no_duplicated_pads_designators_SKIPPED = {}
+test_no_duplicated_pads_designators_SKIPPED = {
+    '15435385A9050'
+}
 
 test_manufacturer_filled_SKIPPED = {}
 
