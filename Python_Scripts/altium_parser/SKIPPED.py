@@ -13,6 +13,11 @@ test_pin_designators_shoud_be_visible_SKIPPED = {}
 	 
 test_no_duplicated_pads_designators_SKIPPED = {
     '15435385A9050'
+    
+}
+
+test_pcblib_designator_name_SKIPPED = {
+    '104642-1610'
 }
 
 test_manufacturer_filled_SKIPPED = {}
