@@ -6,7 +6,8 @@ test_datasheet_valid_url_SKIPPED = {
     'T-CONNECT MALE',
     'TP_PAD_2MM',
     'TP_PAD_1.5MM',
-    'TP_PAD_1.3MM'
+    'TP_PAD_1.3MM',
+    'JETSON XAVIER NX'
     }
 
 test_pin_designators_shoud_be_visible_SKIPPED = {}
