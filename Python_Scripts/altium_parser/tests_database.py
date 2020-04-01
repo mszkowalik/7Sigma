@@ -28,11 +28,11 @@ class TestDatabase(TestCase):
     def test_datasheet_valid_url(self, part):
         self.assertNotEqual(part.datasheet,None, "HelpURL is null")
         self.assertTrue(part.datasheet,"HelpURL is Empty")
-        if part.datasheet != '-' and part.datasheet != None:
-            with warnings.catch_warnings():
-                warnings.filterwarnings("ignore", category=DeprecationWarning)
-                import validators
-                self.assertTrue(validators.url(part.datasheet), "Invalid HelpURL!")
+        # if part.datasheet != '-' and part.datasheet != None:
+        #     with warnings.catch_warnings():
+        #         warnings.filterwarnings("ignore", category=DeprecationWarning)
+        #         import validators
+        #         self.assertTrue(validators.url(part.datasheet), "Invalid HelpURL!")
 
     @for_all_parts
     def test_no_whitespace_at_begin_or_end_of_each_field(self, part):
