@@ -3,6 +3,8 @@ test_pin_length_should_be_200_mils_SKIPPED = \
 
 test_datasheet_valid_url_SKIPPED = {
     'T-CONNECT FEMALE',
+    'OKY3502-4',
+    'RASPBERRYPI_4B',
     'T-CONNECT MALE',
     'TP_PAD_2MM',
     'TP_PAD_1.5MM',
