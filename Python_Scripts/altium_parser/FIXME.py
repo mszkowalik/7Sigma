@@ -420,6 +420,8 @@ test_datasheet_valid_url_FIXME = \
  '1590G2BK',
  '1590GBK',
  '1591XXGSFLBK',
+ 'OKY3502-4',
+ 'RASPBERRYPI_4B'
  '2 Layers Stackup',
  '20021521-00010T1LF',
  '2412_Coin_Cell',
