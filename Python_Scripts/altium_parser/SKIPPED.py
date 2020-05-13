@@ -20,7 +20,8 @@ test_no_duplicated_pads_designators_SKIPPED = {
 }
 
 test_pcblib_designator_name_SKIPPED = {
-    '104642-1610'
+    '104642-1610',
+    '104239-1430'
 }
 
 test_manufacturer_filled_SKIPPED = {}
