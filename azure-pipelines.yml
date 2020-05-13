@@ -7,11 +7,11 @@ trigger:
 - master
 
 pool:
-  vmImage: '	ubuntu-latest'
+  vmImage: 'vs2017-win2016'
 strategy:
   matrix:
     Python37:
-      python.version: '3.7.6'
+      python.version: '3.7'
 
 steps:
 - task: UsePythonVersion@0
