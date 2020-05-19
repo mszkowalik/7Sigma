@@ -27,7 +27,7 @@ jobs:
         if [ -f Python_Scripts/requirements.txt ]; then pip install -r Python_Scripts/requirements.txt; fi
     - name: Test PCBLibs
       run: |
-        pytest Python_Scripts\altium_parser\test_pcblibs.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
+        pytest Python_Scripts\altium_parser\test_pcblibs.py
     - name: Test Database
       run: |
-        pytest Python_Scripts\altium_parser\tests_database.py --doctest-modules --junitxml=junit/test-results.xml --cov=. --cov-report=xml --cov-report=html
+        pytest Python_Scripts\altium_parser\tests_database.py
