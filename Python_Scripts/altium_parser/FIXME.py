@@ -103,8 +103,7 @@ test_dnc_should_be_passive_FIXME = \
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ PCB LIB ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 test_correct_layer_names_FIXME =\
-    {'1455Q1602BK',
- '1571626-2-Footprint-1',
+    {'1571626-2-Footprint-1',
  '1734366-1-Footprint-1',
  '201267-0005',
  '2_Layers_Stackup',

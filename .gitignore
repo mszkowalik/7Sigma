@@ -14,3 +14,5 @@ SIM/Sim Test/Project Outputs for Sim Test/
 Altium System Library.lnk
 Python_Scripts/altium_parser/tests_database_old.py
 Python_Scripts/altium_parser/.vscode/
+Templates/PCB.PcbDoc.htm
+*.htm
