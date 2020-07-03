@@ -15,7 +15,9 @@ test_datasheet_valid_url_SKIPPED = {
 test_pin_designators_shoud_be_visible_SKIPPED = {}
 	 
 test_no_duplicated_pads_designators_SKIPPED = {
-    '15435385A9050'
+    '15435385A9050',
+    'PowerPAK SO-8L Single',
+    '74655095'
     
 }
 
