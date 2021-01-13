@@ -1,4 +1,5 @@
 from unittest import TestCase
+import unittest
 import warnings
 import parse
 import re
