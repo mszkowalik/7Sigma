@@ -91,7 +91,7 @@ class TestPcbLibs(TestCase):
         
         for footprint in pcblib.Footprints:
             for r in footprint.Pad:
-                self.assertRegex(r.Designator, "^(MH\\d?|\\d+|[A-Z]+\\d+|DNC|GND|IN|OUT)$")
+                self.assertRegex(r.Designator, "^(MH\\d?|\\d+|[A-Z]+\\d+|DNC|GND|IN|OUT|POS|NEG)$")
                 
 
 """     @for_all_pcblibs

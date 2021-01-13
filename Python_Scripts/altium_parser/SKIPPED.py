@@ -17,7 +17,11 @@ test_pin_designators_shoud_be_visible_SKIPPED = {}
 test_no_duplicated_pads_designators_SKIPPED = {
     '15435385A9050',
     'PowerPAK SO-8L Single',
-    '74655095'
+    '74655095',
+    'OL_0807',
+    'R_mbed_1m',
+    'BAT-HLD-001',
+    '87520-0010BLF'
     
 }
 

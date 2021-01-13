@@ -100,15 +100,18 @@ def parse_properties(schlib, data):
         41: SchLib_Parameter,
         44: Empty,  # PartEnd
         45: Empty,# SIM model/ foorptint
-        46: Empty # Footprint model
+        46: Empty, # Footprint model
+        47: Empty, # Footprint model
+        48: Empty # Footprint model
     }
 
     dict = parseKeyValueString(data.data)
     typ = int(dict["RECORD"])
-    if typ == 45 or typ == 46:
+    if  typ == 46:
         #print(dict)
-        modeltype = dict["MODELTYPE"]
-        if modeltype != "SIM":
-            assert False, "Footprint model should not be included in SchLib File: " + schlib.name
-    assert typ in mapping, "type " + str(typ) + " not mapped! " + str(dict) + ", report issue!"
+        if "MODELTYPE" in dict:
+            modeltype = dict["MODELTYPE"]
+            if modeltype != "SIM":
+                assert False, "Footprint model should not be included in SchLib File: " + schlib.name
+            assert typ in mapping, "type " + str(typ) + " not mapped! " + str(dict) + ", report issue!"
     mapping[typ](schlib, dict)
