@@ -314,9 +314,6 @@ TableName=IC_References
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=107|Library Ref0=108|Footprint Ref0=132|Description0=325|Manufacturer Part Number0=160|Manufacturer0=122|Tolerance0=73|Case/Package0=93|Output Current0=103|Max Input Voltage0=118|Max Output Current0=127|Max Output Voltage0=128|Max Operating Temperature0=168|Min Output Voltage0=127|Min Operating Temperature0=167|Output Type0=88|Mount0=84|Height0=58|HelpURL0=448|Lead Free0=72|Length0=59|Number of Pins0=102|Output Voltage0=104|REACH SVHC0=89|Reference Type0=101|Reference Voltage0=117|RoHS0=61|Width0=55|Status0=55|Supplier 10=75|Supplier Part Number 10=142|Box0=41|Stock0=51
 [Table50]
 SchemaName=
 TableName=IC_Sensors
@@ -431,27 +428,18 @@ TableName=Switches
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=279|Library Ref0=279|Description0=321|Footprint Ref0=182|Max Current0=86|Manufacturer Part Number0=160|Manufacturer0=99|Orientation0=83|Mount0=84|RoHS0=61|HelpURL0=1335|Height0=58|Max Operating Temperature0=168|Max Voltage Rating (DC)0=148|Status0=55|Switch Function0=106|Throw Configuration0=132|Supplier 10=75|Supplier Part Number 10=142|Comment0=88|Box0=41|Stock0=51
 [Table69]
 SchemaName=
 TableName=Test Points and Probes
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Library Ref0=100|Description0=100|Footprint Ref0=100|Case/Package0=100|Mount0=100|Height0=100|HelpURL0=100|Lead Free0=100|Length0=100|Max Operating Temperature0=100|Min Operating Temperature0=100|Number of Pins0=100|Number of Ports0=100|REACH SVHC0=100|RoHS0=100|Termination0=100|Manufacturer0=100|Manufacturer Part Number0=100|Comment0=100|Box0=100|Stock0=100|Supplier 10=100|Supplier Part Number 10=100
 [Table70]
 SchemaName=
 TableName=Transistor
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=99|Library Ref0=99|Footprint Ref0=166|Description0=386|Case/Package0=93|Max Current0=86|Manufacturer0=105|Max Power Dissipation0=140|Voltage Rating (DC)0=124|Type0=75|Mount0=84|Height0=58|HelpURL0=493|Max Operating Temperature0=168|Status0=55|Polarization0=84|RoHS0=61|Manufacturer Part Number0=160|Comment0=88|Box0=41|Stock0=51
 [Table71]
 SchemaName=
 TableName=Transistors_NMOS
