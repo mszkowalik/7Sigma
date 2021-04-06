@@ -466,7 +466,7 @@ UserWhere=0
 UserWhereText=
 [Table75]
 SchemaName=
-TableName=Triacs SCR
+TableName=Triacs_SCR_SSR
 Enabled=True
 UserWhere=0
 UserWhereText=
@@ -1077,10 +1077,10 @@ Options=FieldName=Transistors_PNP.Description|TableNameOnly=Transistors_PNP|Fiel
 [FieldMap303]
 Options=FieldName=Transistors_PNP.Footprint Ref|TableNameOnly=Transistors_PNP|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap304]
-Options=FieldName=Triacs SCR.Part Number|TableNameOnly=Triacs SCR|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Triacs_SCR_SSR.Part Number|TableNameOnly=Triacs_SCR_SSR|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap305]
-Options=FieldName=Triacs SCR.Library Ref|TableNameOnly=Triacs SCR|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Triacs_SCR_SSR.Library Ref|TableNameOnly=Triacs_SCR_SSR|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap306]
-Options=FieldName=Triacs SCR.Description|TableNameOnly=Triacs SCR|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Triacs_SCR_SSR.Description|TableNameOnly=Triacs_SCR_SSR|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap307]
-Options=FieldName=Triacs SCR.Footprint Ref|TableNameOnly=Triacs SCR|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Triacs_SCR_SSR.Footprint Ref|TableNameOnly=Triacs_SCR_SSR|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
