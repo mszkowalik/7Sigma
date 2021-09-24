@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MSDASQL.1;Password=Altium123;Persist Security Info=True;User ID=Altium;Data Source=7Sigma Azure;Initial Catalog=Library
+ConnectionString=Provider=MSDASQL.1;Password=Altium123;Persist Security Info=True;User ID=Altium;Data Source=7Sigma;Initial Catalog=Library
 AddMode=3
 RemoveMode=1
 UpdateMode=2
